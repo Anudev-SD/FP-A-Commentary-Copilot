@@ -1,0 +1,2641 @@
+period,segment,country,product,account,amount
+2013-09,Channel Partners,Canada,Amarilla,COGS,7531.19
+2013-09,Channel Partners,Canada,Amarilla,Discounts,3863.8
+2013-09,Channel Partners,Canada,Amarilla,Gross Sales,30611.92
+2013-09,Channel Partners,Canada,Amarilla,Units Sold,2550.99
+2013-09,Channel Partners,France,VTT,COGS,6493.35
+2013-09,Channel Partners,France,VTT,Discounts,2354.49
+2013-09,Channel Partners,France,VTT,Gross Sales,26528.98
+2013-09,Channel Partners,France,VTT,Units Sold,2210.75
+2013-09,Channel Partners,Germany,VTT,COGS,6737.79
+2013-09,Channel Partners,Germany,VTT,Discounts,1863.38
+2013-09,Channel Partners,Germany,VTT,Gross Sales,26640.14
+2013-09,Channel Partners,Germany,VTT,Units Sold,2220.01
+2013-09,Channel Partners,Mexico,VTT,COGS,2898.24
+2013-09,Channel Partners,Mexico,VTT,Discounts,1244.85
+2013-09,Channel Partners,Mexico,VTT,Gross Sales,11455.26
+2013-09,Channel Partners,Mexico,VTT,Units Sold,954.6
+2013-09,Channel Partners,United States of America,Amarilla,COGS,5851.06
+2013-09,Channel Partners,United States of America,Amarilla,Discounts,231.6
+2013-09,Channel Partners,United States of America,Amarilla,Gross Sales,23835.11
+2013-09,Channel Partners,United States of America,Amarilla,Units Sold,1986.26
+2013-09,Enterprise,Canada,Carretera,COGS,289031.87
+2013-09,Enterprise,Canada,Carretera,Discounts,36061.8
+2013-09,Enterprise,Canada,Carretera,Gross Sales,302650.03
+2013-09,Enterprise,Canada,Carretera,Units Sold,2421.2
+2013-09,Enterprise,France,Carretera,COGS,108431.41
+2013-09,Enterprise,France,Carretera,Discounts,17634.46
+2013-09,Enterprise,France,Carretera,Gross Sales,117309.17
+2013-09,Enterprise,France,Carretera,Units Sold,938.47
+2013-09,Enterprise,Germany,Amarilla,COGS,113855.79
+2013-09,Enterprise,Germany,Amarilla,Discounts,8735.06
+2013-09,Enterprise,Germany,Amarilla,Gross Sales,119784.07
+2013-09,Enterprise,Germany,Amarilla,Units Sold,958.27
+2013-09,Enterprise,Mexico,Amarilla,COGS,116428.12
+2013-09,Enterprise,Mexico,Amarilla,Discounts,12896.45
+2013-09,Enterprise,Mexico,Amarilla,Gross Sales,120319.19
+2013-09,Enterprise,Mexico,Amarilla,Units Sold,962.55
+2013-09,Enterprise,United States of America,Carretera,COGS,40881.42
+2013-09,Enterprise,United States of America,Carretera,Discounts,427.07
+2013-09,Enterprise,United States of America,Carretera,Gross Sales,41893.62
+2013-09,Enterprise,United States of America,Carretera,Units Sold,335.15
+2013-09,Government,Canada,Paseo,COGS,11055.38
+2013-09,Government,Canada,Paseo,Discounts,765.49
+2013-09,Government,Canada,Paseo,Gross Sales,15701.45
+2013-09,Government,Canada,Paseo,Units Sold,2243.06
+2013-09,Government,Canada,VTT,COGS,166439.13
+2013-09,Government,Canada,VTT,Discounts,24929.09
+2013-09,Government,Canada,VTT,Gross Sales,219436.37
+2013-09,Government,Canada,VTT,Units Sold,626.96
+2013-09,Government,Canada,Velo,COGS,26728.96
+2013-09,Government,Canada,Velo,Discounts,2272.61
+2013-09,Government,Canada,Velo,Gross Sales,55129.1
+2013-09,Government,Canada,Velo,Units Sold,2756.45
+2013-09,Government,France,Paseo,COGS,5185.06
+2013-09,Government,France,Paseo,Discounts,539.28
+2013-09,Government,France,Paseo,Gross Sales,7444.85
+2013-09,Government,France,Paseo,Units Sold,1063.55
+2013-09,Government,France,VTT,COGS,401123.23
+2013-09,Government,France,VTT,Discounts,0.0
+2013-09,Government,France,VTT,Gross Sales,532416.86
+2013-09,Government,France,VTT,Units Sold,1521.19
+2013-09,Government,France,Velo,COGS,28449.93
+2013-09,Government,France,Velo,Discounts,5971.19
+2013-09,Government,France,Velo,Gross Sales,55059.63
+2013-09,Government,France,Velo,Units Sold,2752.98
+2013-09,Government,Germany,Carretera,COGS,4352.66
+2013-09,Government,Germany,Carretera,Discounts,1115.02
+2013-09,Government,Germany,Carretera,Gross Sales,8620.24
+2013-09,Government,Germany,Carretera,Units Sold,431.01
+2013-09,Government,Germany,Montana,COGS,475661.21
+2013-09,Government,Germany,Montana,Discounts,19657.33
+2013-09,Government,Germany,Montana,Gross Sales,640830.22
+2013-09,Government,Germany,Montana,Units Sold,1830.94
+2013-09,Government,Germany,Paseo,COGS,11606.41
+2013-09,Government,Germany,Paseo,Discounts,1375.58
+2013-09,Government,Germany,Paseo,Gross Sales,16995.12
+2013-09,Government,Germany,Paseo,Units Sold,2427.87
+2013-09,Government,Mexico,Carretera,COGS,18046.84
+2013-09,Government,Mexico,Carretera,Discounts,2601.97
+2013-09,Government,Mexico,Carretera,Gross Sales,37615.18
+2013-09,Government,Mexico,Carretera,Units Sold,1880.76
+2013-09,Government,Mexico,Montana,COGS,188677.15
+2013-09,Government,Mexico,Montana,Discounts,12051.39
+2013-09,Government,Mexico,Montana,Gross Sales,253332.8
+2013-09,Government,Mexico,Montana,Units Sold,723.81
+2013-09,Government,Mexico,Paseo,COGS,9027.86
+2013-09,Government,Mexico,Paseo,Discounts,383.21
+2013-09,Government,Mexico,Paseo,Gross Sales,12730.17
+2013-09,Government,Mexico,Paseo,Units Sold,1818.6
+2013-09,Government,United States of America,Paseo,COGS,1865.02
+2013-09,Government,United States of America,Paseo,Discounts,303.22
+2013-09,Government,United States of America,Paseo,Gross Sales,2670.08
+2013-09,Government,United States of America,Paseo,Units Sold,381.44
+2013-09,Government,United States of America,VTT,COGS,93756.0
+2013-09,Government,United States of America,VTT,Discounts,4860.65
+2013-09,Government,United States of America,VTT,Gross Sales,126044.79
+2013-09,Government,United States of America,VTT,Units Sold,360.13
+2013-09,Government,United States of America,Velo,COGS,7638.44
+2013-09,Government,United States of America,Velo,Discounts,621.35
+2013-09,Government,United States of America,Velo,Gross Sales,15241.78
+2013-09,Government,United States of America,Velo,Units Sold,762.09
+2013-09,Midmarket,Canada,Paseo,COGS,24369.55
+2013-09,Midmarket,Canada,Paseo,Discounts,5072.69
+2013-09,Midmarket,Canada,Paseo,Gross Sales,35876.67
+2013-09,Midmarket,Canada,Paseo,Units Sold,2391.78
+2013-09,Midmarket,France,Paseo,COGS,5120.9
+2013-09,Midmarket,France,Paseo,Discounts,0.0
+2013-09,Midmarket,France,Paseo,Gross Sales,7660.43
+2013-09,Midmarket,France,Paseo,Units Sold,510.7
+2013-09,Midmarket,Germany,Velo,COGS,7192.8
+2013-09,Midmarket,Germany,Velo,Discounts,1404.77
+2013-09,Midmarket,Germany,Velo,Gross Sales,10530.49
+2013-09,Midmarket,Germany,Velo,Units Sold,702.03
+2013-09,Midmarket,Mexico,Velo,COGS,6618.65
+2013-09,Midmarket,Mexico,Velo,Discounts,1069.15
+2013-09,Midmarket,Mexico,Velo,Gross Sales,9926.39
+2013-09,Midmarket,Mexico,Velo,Units Sold,661.76
+2013-09,Midmarket,United States of America,Paseo,COGS,27304.18
+2013-09,Midmarket,United States of America,Paseo,Discounts,2734.17
+2013-09,Midmarket,United States of America,Paseo,Gross Sales,41050.97
+2013-09,Midmarket,United States of America,Paseo,Units Sold,2736.73
+2013-09,Small Business,Canada,Montana,COGS,318356.58
+2013-09,Small Business,Canada,Montana,Discounts,29446.27
+2013-09,Small Business,Canada,Montana,Gross Sales,374065.45
+2013-09,Small Business,Canada,Montana,Units Sold,1246.88
+2013-09,Small Business,France,Montana,COGS,81399.52
+2013-09,Small Business,France,Montana,Discounts,9205.79
+2013-09,Small Business,France,Montana,Gross Sales,99629.04
+2013-09,Small Business,France,Montana,Units Sold,332.1
+2013-09,Small Business,Germany,Paseo,COGS,293254.05
+2013-09,Small Business,Germany,Paseo,Discounts,22941.45
+2013-09,Small Business,Germany,Paseo,Gross Sales,333152.08
+2013-09,Small Business,Germany,Paseo,Units Sold,1110.51
+2013-09,Small Business,Mexico,Paseo,COGS,194454.54
+2013-09,Small Business,Mexico,Paseo,Discounts,0.0
+2013-09,Small Business,Mexico,Paseo,Gross Sales,231607.2
+2013-09,Small Business,Mexico,Paseo,Units Sold,772.02
+2013-09,Small Business,United States of America,Montana,COGS,665523.75
+2013-09,Small Business,United States of America,Montana,Discounts,7492.84
+2013-09,Small Business,United States of America,Montana,Gross Sales,792591.66
+2013-09,Small Business,United States of America,Montana,Units Sold,2641.97
+2013-10,Channel Partners,Canada,Carretera,COGS,6683.5
+2013-10,Channel Partners,Canada,Carretera,Discounts,1670.83
+2013-10,Channel Partners,Canada,Carretera,Gross Sales,26456.17
+2013-10,Channel Partners,Canada,Carretera,Units Sold,2204.68
+2013-10,Channel Partners,Canada,Paseo,COGS,6931.08
+2013-10,Channel Partners,Canada,Paseo,Discounts,1642.98
+2013-10,Channel Partners,Canada,Paseo,Gross Sales,26721.13
+2013-10,Channel Partners,Canada,Paseo,Units Sold,2226.76
+2013-10,Channel Partners,France,Carretera,COGS,3681.97
+2013-10,Channel Partners,France,Carretera,Discounts,1631.62
+2013-10,Channel Partners,France,Carretera,Gross Sales,14498.07
+2013-10,Channel Partners,France,Carretera,Units Sold,1208.17
+2013-10,Channel Partners,France,Paseo,COGS,3533.38
+2013-10,Channel Partners,France,Paseo,Discounts,1652.88
+2013-10,Channel Partners,France,Paseo,Gross Sales,14602.29
+2013-10,Channel Partners,France,Paseo,Units Sold,1216.86
+2013-10,Channel Partners,Germany,Carretera,COGS,2409.88
+2013-10,Channel Partners,Germany,Carretera,Discounts,95.39
+2013-10,Channel Partners,Germany,Carretera,Gross Sales,9376.32
+2013-10,Channel Partners,Germany,Carretera,Units Sold,781.36
+2013-10,Channel Partners,Germany,Paseo,COGS,2367.06
+2013-10,Channel Partners,Germany,Paseo,Discounts,94.63
+2013-10,Channel Partners,Germany,Paseo,Gross Sales,9533.22
+2013-10,Channel Partners,Germany,Paseo,Units Sold,794.44
+2013-10,Channel Partners,Mexico,Carretera,COGS,1112.16
+2013-10,Channel Partners,Mexico,Carretera,Discounts,397.56
+2013-10,Channel Partners,Mexico,Carretera,Gross Sales,4439.12
+2013-10,Channel Partners,Mexico,Carretera,Units Sold,369.93
+2013-10,Channel Partners,Mexico,Paseo,COGS,1094.04
+2013-10,Channel Partners,Mexico,Paseo,Discounts,399.01
+2013-10,Channel Partners,Mexico,Paseo,Gross Sales,4491.06
+2013-10,Channel Partners,Mexico,Paseo,Units Sold,374.25
+2013-10,Channel Partners,United States of America,Carretera,COGS,1158.12
+2013-10,Channel Partners,United States of America,Carretera,Discounts,494.66
+2013-10,Channel Partners,United States of America,Carretera,Gross Sales,4584.22
+2013-10,Channel Partners,United States of America,Carretera,Units Sold,382.02
+2013-10,Channel Partners,United States of America,Paseo,COGS,1145.78
+2013-10,Channel Partners,United States of America,Paseo,Discounts,472.11
+2013-10,Channel Partners,United States of America,Paseo,Gross Sales,4643.63
+2013-10,Channel Partners,United States of America,Paseo,Units Sold,386.97
+2013-10,Enterprise,Canada,Montana,COGS,41661.76
+2013-10,Enterprise,Canada,Montana,Discounts,0.0
+2013-10,Enterprise,Canada,Montana,Gross Sales,43310.9
+2013-10,Enterprise,Canada,Montana,Units Sold,346.49
+2013-10,Enterprise,Canada,Velo,COGS,41520.47
+2013-10,Enterprise,Canada,Velo,Discounts,0.0
+2013-10,Enterprise,Canada,Velo,Gross Sales,43497.65
+2013-10,Enterprise,Canada,Velo,Units Sold,347.98
+2013-10,Enterprise,France,Paseo,COGS,90485.9
+2013-10,Enterprise,France,Paseo,Discounts,4400.47
+2013-10,Enterprise,France,Paseo,Gross Sales,90761.79
+2013-10,Enterprise,France,Paseo,Units Sold,726.09
+2013-10,Enterprise,France,Velo,COGS,89801.36
+2013-10,Enterprise,France,Velo,Discounts,4701.85
+2013-10,Enterprise,France,Velo,Gross Sales,89975.97
+2013-10,Enterprise,France,Velo,Units Sold,719.81
+2013-10,Enterprise,Germany,Paseo,COGS,97342.33
+2013-10,Enterprise,Germany,Paseo,Discounts,1985.9
+2013-10,Enterprise,Germany,Paseo,Gross Sales,101304.02
+2013-10,Enterprise,Germany,Paseo,Units Sold,810.43
+2013-10,Enterprise,Germany,Velo,COGS,94108.57
+2013-10,Enterprise,Germany,Velo,Discounts,1987.52
+2013-10,Enterprise,Germany,Velo,Gross Sales,97904.48
+2013-10,Enterprise,Germany,Velo,Units Sold,783.24
+2013-10,Enterprise,Mexico,Paseo,COGS,256169.99
+2013-10,Enterprise,Mexico,Paseo,Discounts,5548.99
+2013-10,Enterprise,Mexico,Paseo,Gross Sales,268851.76
+2013-10,Enterprise,Mexico,Paseo,Units Sold,2150.81
+2013-10,Enterprise,Mexico,Velo,COGS,262799.03
+2013-10,Enterprise,Mexico,Velo,Discounts,5418.32
+2013-10,Enterprise,Mexico,Velo,Gross Sales,267824.68
+2013-10,Enterprise,Mexico,Velo,Units Sold,2142.6
+2013-10,Enterprise,United States of America,Montana,COGS,79649.73
+2013-10,Enterprise,United States of America,Montana,Discounts,837.55
+2013-10,Enterprise,United States of America,Montana,Gross Sales,83517.88
+2013-10,Enterprise,United States of America,Montana,Units Sold,668.14
+2013-10,Enterprise,United States of America,Velo,COGS,86168.96
+2013-10,Enterprise,United States of America,Velo,Discounts,905.51
+2013-10,Enterprise,United States of America,Velo,Gross Sales,90522.14
+2013-10,Enterprise,United States of America,Velo,Units Sold,724.18
+2013-10,Government,Canada,Amarilla,COGS,318779.72
+2013-10,Government,Canada,Amarilla,Discounts,21008.82
+2013-10,Government,Canada,Amarilla,Gross Sales,420888.97
+2013-10,Government,Canada,Amarilla,Units Sold,1202.54
+2013-10,Government,Canada,Carretera,COGS,14341.75
+2013-10,Government,Canada,Carretera,Discounts,797.83
+2013-10,Government,Canada,Carretera,Gross Sales,20296.97
+2013-10,Government,Canada,Carretera,Units Sold,2899.57
+2013-10,Government,Canada,Montana,COGS,14866.21
+2013-10,Government,Canada,Montana,Discounts,821.9
+2013-10,Government,Canada,Montana,Gross Sales,20828.42
+2013-10,Government,Canada,Montana,Units Sold,2975.49
+2013-10,Government,Canada,Paseo,COGS,323900.32
+2013-10,Government,Canada,Paseo,Discounts,23988.4
+2013-10,Government,Canada,Paseo,Gross Sales,459377.27
+2013-10,Government,Canada,Paseo,Units Sold,2627.28
+2013-10,Government,Canada,VTT,COGS,15466.38
+2013-10,Government,Canada,VTT,Discounts,1520.19
+2013-10,Government,Canada,VTT,Gross Sales,30503.16
+2013-10,Government,Canada,VTT,Units Sold,1525.16
+2013-10,Government,France,Amarilla,COGS,559474.92
+2013-10,Government,France,Amarilla,Discounts,42496.15
+2013-10,Government,France,Amarilla,Gross Sales,725368.93
+2013-10,Government,France,Amarilla,Units Sold,3426.79
+2013-10,Government,France,Montana,COGS,25265.04
+2013-10,Government,France,Montana,Discounts,2690.53
+2013-10,Government,France,Montana,Gross Sales,45547.65
+2013-10,Government,France,Montana,Units Sold,3201.23
+2013-10,Government,France,Paseo,COGS,17515.0
+2013-10,Government,France,Paseo,Discounts,2109.51
+2013-10,Government,France,Paseo,Gross Sales,34034.95
+2013-10,Government,France,Paseo,Units Sold,1701.75
+2013-10,Government,France,Velo,COGS,523217.24
+2013-10,Government,France,Velo,Discounts,43858.56
+2013-10,Government,France,Velo,Gross Sales,716454.78
+2013-10,Government,France,Velo,Units Sold,2047.01
+2013-10,Government,Germany,Amarilla,COGS,788439.08
+2013-10,Government,Germany,Amarilla,Discounts,21738.86
+2013-10,Government,Germany,Amarilla,Gross Sales,1056682.55
+2013-10,Government,Germany,Amarilla,Units Sold,4166.28
+2013-10,Government,Germany,Montana,COGS,36247.83
+2013-10,Government,Germany,Montana,Discounts,7172.81
+2013-10,Government,Germany,Montana,Gross Sales,70292.74
+2013-10,Government,Germany,Montana,Units Sold,4293.93
+2013-10,Government,Germany,Paseo,COGS,30166.29
+2013-10,Government,Germany,Paseo,Discounts,6781.63
+2013-10,Government,Germany,Paseo,Gross Sales,60608.68
+2013-10,Government,Germany,Paseo,Units Sold,3030.43
+2013-10,Government,Germany,Velo,COGS,823519.02
+2013-10,Government,Germany,Velo,Discounts,21412.9
+2013-10,Government,Germany,Velo,Gross Sales,1091722.49
+2013-10,Government,Germany,Velo,Units Sold,3119.21
+2013-10,Government,Mexico,Amarilla,COGS,97902.12
+2013-10,Government,Mexico,Amarilla,Discounts,14763.94
+2013-10,Government,Mexico,Amarilla,Gross Sales,131986.68
+2013-10,Government,Mexico,Amarilla,Units Sold,2063.15
+2013-10,Government,Mexico,Montana,COGS,24725.78
+2013-10,Government,Mexico,Montana,Discounts,5898.56
+2013-10,Government,Mexico,Montana,Gross Sales,45776.72
+2013-10,Government,Mexico,Montana,Units Sold,3396.57
+2013-10,Government,Mexico,Paseo,COGS,18606.39
+2013-10,Government,Mexico,Paseo,Discounts,4706.44
+2013-10,Government,Mexico,Paseo,Gross Sales,38217.93
+2013-10,Government,Mexico,Paseo,Units Sold,1910.9
+2013-10,Government,Mexico,Velo,COGS,88351.71
+2013-10,Government,Mexico,Velo,Discounts,13058.17
+2013-10,Government,Mexico,Velo,Gross Sales,122313.7
+2013-10,Government,Mexico,Velo,Units Sold,349.47
+2013-10,Government,United States of America,Amarilla,COGS,185462.86
+2013-10,Government,United States of America,Amarilla,Discounts,14453.17
+2013-10,Government,United States of America,Amarilla,Gross Sales,247231.49
+2013-10,Government,United States of America,Amarilla,Units Sold,706.38
+2013-10,Government,United States of America,Carretera,COGS,15171.13
+2013-10,Government,United States of America,Carretera,Discounts,2864.98
+2013-10,Government,United States of America,Carretera,Gross Sales,20397.61
+2013-10,Government,United States of America,Carretera,Units Sold,2913.94
+2013-10,Government,United States of America,Montana,COGS,14818.75
+2013-10,Government,United States of America,Montana,Discounts,2973.85
+2013-10,Government,United States of America,Montana,Gross Sales,20195.93
+2013-10,Government,United States of America,Montana,Units Sold,2885.13
+2013-10,Government,United States of America,Paseo,COGS,191461.15
+2013-10,Government,United States of America,Paseo,Discounts,15722.74
+2013-10,Government,United States of America,Paseo,Gross Sales,269707.05
+2013-10,Government,United States of America,Paseo,Units Sold,1031.94
+2013-10,Government,United States of America,VTT,COGS,2706.15
+2013-10,Government,United States of America,VTT,Discounts,796.0
+2013-10,Government,United States of America,VTT,Gross Sales,5262.73
+2013-10,Government,United States of America,VTT,Units Sold,263.14
+2013-10,Midmarket,Canada,Amarilla,COGS,17847.12
+2013-10,Midmarket,Canada,Amarilla,Discounts,3527.12
+2013-10,Midmarket,Canada,Amarilla,Gross Sales,26278.54
+2013-10,Midmarket,Canada,Amarilla,Units Sold,1751.9
+2013-10,Midmarket,Canada,Paseo,COGS,16848.45
+2013-10,Midmarket,Canada,Paseo,Discounts,3581.53
+2013-10,Midmarket,Canada,Paseo,Gross Sales,26078.67
+2013-10,Midmarket,Canada,Paseo,Units Sold,1738.58
+2013-10,Midmarket,France,Paseo,COGS,22178.12
+2013-10,Midmarket,France,Paseo,Discounts,3310.42
+2013-10,Midmarket,France,Paseo,Gross Sales,33470.14
+2013-10,Midmarket,France,Paseo,Units Sold,2231.34
+2013-10,Midmarket,France,VTT,COGS,21407.32
+2013-10,Midmarket,France,VTT,Discounts,3102.61
+2013-10,Midmarket,France,VTT,Gross Sales,31422.5
+2013-10,Midmarket,France,VTT,Units Sold,2094.83
+2013-10,Midmarket,Germany,Paseo,COGS,18836.05
+2013-10,Midmarket,Germany,Paseo,Discounts,824.97
+2013-10,Midmarket,Germany,Paseo,Gross Sales,27946.43
+2013-10,Midmarket,Germany,Paseo,Units Sold,1863.1
+2013-10,Midmarket,Germany,VTT,COGS,19111.46
+2013-10,Midmarket,Germany,VTT,Discounts,883.33
+2013-10,Midmarket,Germany,VTT,Gross Sales,29437.93
+2013-10,Midmarket,Germany,VTT,Units Sold,1962.53
+2013-10,Midmarket,Mexico,Paseo,COGS,15697.78
+2013-10,Midmarket,Mexico,Paseo,Discounts,915.56
+2013-10,Midmarket,Mexico,Paseo,Gross Sales,23262.53
+2013-10,Midmarket,Mexico,Paseo,Units Sold,1550.84
+2013-10,Midmarket,Mexico,VTT,COGS,14686.83
+2013-10,Midmarket,Mexico,VTT,Discounts,880.18
+2013-10,Midmarket,Mexico,VTT,Gross Sales,23014.09
+2013-10,Midmarket,Mexico,VTT,Units Sold,1534.27
+2013-10,Midmarket,United States of America,Amarilla,COGS,6467.27
+2013-10,Midmarket,United States of America,Amarilla,Discounts,398.89
+2013-10,Midmarket,United States of America,Amarilla,Gross Sales,9744.33
+2013-10,Midmarket,United States of America,Amarilla,Units Sold,649.62
+2013-10,Midmarket,United States of America,Paseo,COGS,7051.23
+2013-10,Midmarket,United States of America,Paseo,Discounts,423.0
+2013-10,Midmarket,United States of America,Paseo,Gross Sales,10341.48
+2013-10,Midmarket,United States of America,Paseo,Units Sold,689.43
+2013-10,Small Business,Canada,VTT,COGS,65302.51
+2013-10,Small Business,Canada,VTT,Discounts,11244.19
+2013-10,Small Business,Canada,VTT,Gross Sales,78334.19
+2013-10,Small Business,Canada,VTT,Units Sold,261.11
+2013-10,Small Business,Canada,Velo,COGS,65204.38
+2013-10,Small Business,Canada,Velo,Discounts,10553.31
+2013-10,Small Business,Canada,Velo,Gross Sales,79033.91
+2013-10,Small Business,Canada,Velo,Units Sold,263.45
+2013-10,Small Business,France,VTT,COGS,299167.48
+2013-10,Small Business,France,VTT,Discounts,21353.41
+2013-10,Small Business,France,VTT,Gross Sales,352727.05
+2013-10,Small Business,France,VTT,Units Sold,1175.76
+2013-10,Small Business,France,Velo,COGS,327826.63
+2013-10,Small Business,France,Velo,Discounts,23621.68
+2013-10,Small Business,France,Velo,Gross Sales,385869.41
+2013-10,Small Business,France,Velo,Units Sold,1286.23
+2013-10,Small Business,Germany,Carretera,COGS,56310.55
+2013-10,Small Business,Germany,Carretera,Discounts,1276.21
+2013-10,Small Business,Germany,Carretera,Gross Sales,65847.41
+2013-10,Small Business,Germany,Carretera,Units Sold,219.49
+2013-10,Small Business,Germany,VTT,COGS,55768.94
+2013-10,Small Business,Germany,VTT,Discounts,1315.81
+2013-10,Small Business,Germany,VTT,Gross Sales,65772.57
+2013-10,Small Business,Germany,VTT,Units Sold,219.24
+2013-10,Small Business,Mexico,Carretera,COGS,132625.13
+2013-10,Small Business,Mexico,Carretera,Discounts,1552.38
+2013-10,Small Business,Mexico,Carretera,Gross Sales,155781.0
+2013-10,Small Business,Mexico,Carretera,Units Sold,519.27
+2013-10,Small Business,Mexico,VTT,COGS,140232.1
+2013-10,Small Business,Mexico,VTT,Discounts,1750.13
+2013-10,Small Business,Mexico,VTT,Gross Sales,165847.5
+2013-10,Small Business,Mexico,VTT,Units Sold,552.82
+2013-10,Small Business,United States of America,VTT,COGS,538445.03
+2013-10,Small Business,United States of America,VTT,Discounts,67982.82
+2013-10,Small Business,United States of America,VTT,Gross Sales,642720.82
+2013-10,Small Business,United States of America,VTT,Units Sold,2142.4
+2013-10,Small Business,United States of America,Velo,COGS,557806.12
+2013-10,Small Business,United States of America,Velo,Discounts,63480.9
+2013-10,Small Business,United States of America,Velo,Gross Sales,668171.2
+2013-10,Small Business,United States of America,Velo,Units Sold,2227.24
+2013-11,Channel Partners,Canada,Paseo,COGS,6472.85
+2013-11,Channel Partners,Canada,Paseo,Discounts,3914.57
+2013-11,Channel Partners,Canada,Paseo,Gross Sales,26014.85
+2013-11,Channel Partners,Canada,Paseo,Units Sold,2167.9
+2013-11,Channel Partners,France,Paseo,COGS,5050.32
+2013-11,Channel Partners,France,Paseo,Discounts,402.7
+2013-11,Channel Partners,France,Paseo,Gross Sales,20703.28
+2013-11,Channel Partners,France,Paseo,Units Sold,1725.27
+2013-11,Channel Partners,Germany,Paseo,COGS,5002.9
+2013-11,Channel Partners,Germany,Paseo,Discounts,1890.15
+2013-11,Channel Partners,Germany,Paseo,Gross Sales,20401.4
+2013-11,Channel Partners,Germany,Paseo,Units Sold,1700.12
+2013-11,Channel Partners,Mexico,Paseo,COGS,8144.04
+2013-11,Channel Partners,Mexico,Paseo,Discounts,2360.04
+2013-11,Channel Partners,Mexico,Paseo,Gross Sales,32760.96
+2013-11,Channel Partners,Mexico,Paseo,Units Sold,2730.08
+2013-11,Channel Partners,United States of America,Paseo,COGS,2618.63
+2013-11,Channel Partners,United States of America,Paseo,Discounts,0.0
+2013-11,Channel Partners,United States of America,Paseo,Gross Sales,10424.17
+2013-11,Channel Partners,United States of America,Paseo,Units Sold,868.68
+2013-11,Enterprise,Canada,VTT,COGS,369615.21
+2013-11,Enterprise,Canada,VTT,Discounts,56965.47
+2013-11,Enterprise,Canada,VTT,Gross Sales,374231.88
+2013-11,Enterprise,Canada,VTT,Units Sold,2993.86
+2013-11,Enterprise,France,Montana,COGS,223114.63
+2013-11,Enterprise,France,Montana,Discounts,20866.96
+2013-11,Enterprise,France,Montana,Gross Sales,232605.52
+2013-11,Enterprise,France,Montana,Units Sold,1860.84
+2013-11,Enterprise,Germany,Montana,COGS,311966.06
+2013-11,Enterprise,Germany,Montana,Discounts,22670.82
+2013-11,Enterprise,Germany,Montana,Gross Sales,318571.08
+2013-11,Enterprise,Germany,Montana,Units Sold,2548.57
+2013-11,Enterprise,Mexico,Montana,COGS,207675.16
+2013-11,Enterprise,Mexico,Montana,Discounts,4264.45
+2013-11,Enterprise,Mexico,Montana,Gross Sales,211757.23
+2013-11,Enterprise,Mexico,Montana,Units Sold,1694.06
+2013-11,Enterprise,United States of America,Montana,COGS,220738.5
+2013-11,Enterprise,United States of America,Montana,Discounts,23929.61
+2013-11,Enterprise,United States of America,Montana,Gross Sales,231005.25
+2013-11,Enterprise,United States of America,Montana,Units Sold,1848.04
+2013-11,Government,Canada,Paseo,COGS,447106.11
+2013-11,Government,Canada,Paseo,Discounts,0.0
+2013-11,Government,Canada,Paseo,Gross Sales,594799.19
+2013-11,Government,Canada,Paseo,Units Sold,1699.43
+2013-11,Government,Canada,VTT,COGS,31793.31
+2013-11,Government,Canada,VTT,Discounts,6993.36
+2013-11,Government,Canada,VTT,Gross Sales,63897.83
+2013-11,Government,Canada,VTT,Units Sold,3194.89
+2013-11,Government,Canada,Velo,COGS,10837.74
+2013-11,Government,Canada,Velo,Discounts,152.68
+2013-11,Government,Canada,Velo,Gross Sales,14781.97
+2013-11,Government,Canada,Velo,Units Sold,2111.71
+2013-11,Government,France,Carretera,COGS,10081.63
+2013-11,Government,France,Carretera,Discounts,283.59
+2013-11,Government,France,Carretera,Gross Sales,13937.04
+2013-11,Government,France,Carretera,Units Sold,1991.01
+2013-11,Government,France,Paseo,COGS,468649.52
+2013-11,Government,France,Paseo,Discounts,92462.99
+2013-11,Government,France,Paseo,Gross Sales,646261.64
+2013-11,Government,France,Paseo,Units Sold,1846.46
+2013-11,Government,France,VTT,COGS,25097.12
+2013-11,Government,France,VTT,Discounts,4413.16
+2013-11,Government,France,VTT,Gross Sales,50032.61
+2013-11,Government,France,VTT,Units Sold,2501.63
+2013-11,Government,Germany,Carretera,COGS,5251.09
+2013-11,Government,Germany,Carretera,Discounts,344.69
+2013-11,Government,Germany,Carretera,Gross Sales,7116.93
+2013-11,Government,Germany,Carretera,Units Sold,1016.7
+2013-11,Government,Germany,Paseo,COGS,553235.55
+2013-11,Government,Germany,Paseo,Discounts,58777.53
+2013-11,Government,Germany,Paseo,Gross Sales,747449.38
+2013-11,Government,Germany,Paseo,Units Sold,2135.57
+2013-11,Government,Germany,VTT,COGS,22745.48
+2013-11,Government,Germany,VTT,Discounts,2212.38
+2013-11,Government,Germany,VTT,Gross Sales,45087.24
+2013-11,Government,Germany,VTT,Units Sold,2254.36
+2013-11,Government,Mexico,Carretera,COGS,14823.37
+2013-11,Government,Mexico,Carretera,Discounts,2311.41
+2013-11,Government,Mexico,Carretera,Gross Sales,20528.59
+2013-11,Government,Mexico,Carretera,Units Sold,2932.66
+2013-11,Government,Mexico,Paseo,COGS,559824.53
+2013-11,Government,Mexico,Paseo,Discounts,118814.61
+2013-11,Government,Mexico,Paseo,Gross Sales,769564.92
+2013-11,Government,Mexico,Paseo,Units Sold,2198.76
+2013-11,Government,Mexico,VTT,COGS,11679.03
+2013-11,Government,Mexico,VTT,Discounts,1380.86
+2013-11,Government,Mexico,VTT,Gross Sales,23121.89
+2013-11,Government,Mexico,VTT,Units Sold,1156.09
+2013-11,Government,United States of America,Carretera,COGS,1231.61
+2013-11,Government,United States of America,Carretera,Discounts,110.99
+2013-11,Government,United States of America,Carretera,Gross Sales,1773.7
+2013-11,Government,United States of America,Carretera,Units Sold,253.39
+2013-11,Government,United States of America,Paseo,COGS,495102.83
+2013-11,Government,United States of America,Paseo,Discounts,105395.74
+2013-11,Government,United States of America,Paseo,Gross Sales,674929.63
+2013-11,Government,United States of America,Paseo,Units Sold,1928.37
+2013-11,Government,United States of America,VTT,COGS,12941.2
+2013-11,Government,United States of America,VTT,Discounts,1276.11
+2013-11,Government,United States of America,VTT,Gross Sales,25337.27
+2013-11,Government,United States of America,VTT,Units Sold,1266.86
+2013-11,Midmarket,Canada,Carretera,COGS,15820.41
+2013-11,Midmarket,Canada,Carretera,Discounts,2527.97
+2013-11,Midmarket,Canada,Carretera,Gross Sales,23562.5
+2013-11,Midmarket,Canada,Carretera,Units Sold,1570.83
+2013-11,Midmarket,France,Amarilla,COGS,2962.14
+2013-11,Midmarket,France,Amarilla,Discounts,46.82
+2013-11,Midmarket,France,Amarilla,Gross Sales,4470.43
+2013-11,Midmarket,France,Amarilla,Units Sold,298.03
+2013-11,Midmarket,Germany,Amarilla,COGS,9716.28
+2013-11,Midmarket,Germany,Amarilla,Discounts,1297.71
+2013-11,Midmarket,Germany,Amarilla,Gross Sales,14445.44
+2013-11,Midmarket,Germany,Amarilla,Units Sold,963.03
+2013-11,Midmarket,Mexico,Amarilla,COGS,18688.04
+2013-11,Midmarket,Mexico,Amarilla,Discounts,3944.08
+2013-11,Midmarket,Mexico,Amarilla,Gross Sales,28065.79
+2013-11,Midmarket,Mexico,Amarilla,Units Sold,1871.05
+2013-11,Midmarket,United States of America,Amarilla,COGS,25268.02
+2013-11,Midmarket,United States of America,Amarilla,Discounts,4500.77
+2013-11,Midmarket,United States of America,Amarilla,Gross Sales,37892.49
+2013-11,Midmarket,United States of America,Amarilla,Units Sold,2526.17
+2013-11,Small Business,Canada,Paseo,COGS,344227.04
+2013-11,Small Business,Canada,Paseo,Discounts,27778.31
+2013-11,Small Business,Canada,Paseo,Gross Sales,407716.53
+2013-11,Small Business,Canada,Paseo,Units Sold,1359.06
+2013-11,Small Business,France,Velo,COGS,93065.86
+2013-11,Small Business,France,Velo,Discounts,8666.76
+2013-11,Small Business,France,Velo,Gross Sales,113327.65
+2013-11,Small Business,France,Velo,Units Sold,377.76
+2013-11,Small Business,Germany,Velo,COGS,630038.54
+2013-11,Small Business,Germany,Velo,Discounts,107769.14
+2013-11,Small Business,Germany,Velo,Gross Sales,755436.81
+2013-11,Small Business,Germany,Velo,Units Sold,2518.12
+2013-11,Small Business,Mexico,Velo,COGS,649537.55
+2013-11,Small Business,Mexico,Velo,Discounts,99568.29
+2013-11,Small Business,Mexico,Velo,Gross Sales,784343.57
+2013-11,Small Business,Mexico,Velo,Units Sold,2614.48
+2013-11,Small Business,United States of America,Velo,COGS,638350.76
+2013-11,Small Business,United States of America,Velo,Discounts,129558.19
+2013-11,Small Business,United States of America,Velo,Gross Sales,791108.6
+2013-11,Small Business,United States of America,Velo,Units Sold,2637.03
+2013-12,Channel Partners,Canada,Carretera,COGS,2791.99
+2013-12,Channel Partners,Canada,Carretera,Discounts,330.2
+2013-12,Channel Partners,Canada,Carretera,Gross Sales,11377.41
+2013-12,Channel Partners,Canada,Carretera,Units Sold,948.12
+2013-12,Channel Partners,France,Amarilla,COGS,935.71
+2013-12,Channel Partners,France,Amarilla,Discounts,314.29
+2013-12,Channel Partners,France,Amarilla,Gross Sales,3629.02
+2013-12,Channel Partners,France,Amarilla,Units Sold,302.42
+2013-12,Channel Partners,Germany,Amarilla,COGS,5254.11
+2013-12,Channel Partners,Germany,Amarilla,Discounts,2752.77
+2013-12,Channel Partners,Germany,Amarilla,Gross Sales,20855.96
+2013-12,Channel Partners,Germany,Amarilla,Units Sold,1738.0
+2013-12,Channel Partners,Mexico,Amarilla,COGS,4086.72
+2013-12,Channel Partners,Mexico,Amarilla,Discounts,1404.94
+2013-12,Channel Partners,Mexico,Amarilla,Gross Sales,16791.4
+2013-12,Channel Partners,Mexico,Amarilla,Units Sold,1399.28
+2013-12,Channel Partners,United States of America,Amarilla,COGS,6003.69
+2013-12,Channel Partners,United States of America,Amarilla,Discounts,3475.65
+2013-12,Channel Partners,United States of America,Amarilla,Gross Sales,24778.09
+2013-12,Channel Partners,United States of America,Amarilla,Units Sold,2064.84
+2013-12,Enterprise,Canada,Velo,COGS,225454.33
+2013-12,Enterprise,Canada,Velo,Discounts,23941.7
+2013-12,Enterprise,Canada,Velo,Gross Sales,235376.27
+2013-12,Enterprise,Canada,Velo,Units Sold,1883.01
+2013-12,Enterprise,France,Carretera,COGS,189283.56
+2013-12,Enterprise,France,Carretera,Discounts,18062.58
+2013-12,Enterprise,France,Carretera,Gross Sales,191200.38
+2013-12,Enterprise,France,Carretera,Units Sold,1529.6
+2013-12,Enterprise,Germany,Carretera,COGS,110280.01
+2013-12,Enterprise,Germany,Carretera,Discounts,6777.72
+2013-12,Enterprise,Germany,Carretera,Gross Sales,115305.7
+2013-12,Enterprise,Germany,Carretera,Units Sold,922.45
+2013-12,Enterprise,Mexico,Carretera,COGS,365788.32
+2013-12,Enterprise,Mexico,Carretera,Discounts,50310.87
+2013-12,Enterprise,Mexico,Carretera,Gross Sales,371323.12
+2013-12,Enterprise,Mexico,Carretera,Units Sold,2970.58
+2013-12,Enterprise,United States of America,Velo,COGS,316339.68
+2013-12,Enterprise,United States of America,Velo,Discounts,46292.19
+2013-12,Enterprise,United States of America,Velo,Gross Sales,327217.34
+2013-12,Enterprise,United States of America,Velo,Units Sold,2617.74
+2013-12,Government,Canada,Amarilla,COGS,450741.95
+2013-12,Government,Canada,Amarilla,Discounts,24128.48
+2013-12,Government,Canada,Amarilla,Gross Sales,601102.61
+2013-12,Government,Canada,Amarilla,Units Sold,1717.44
+2013-12,Government,Canada,Montana,COGS,7844.18
+2013-12,Government,Canada,Montana,Discounts,947.17
+2013-12,Government,Canada,Montana,Gross Sales,11283.27
+2013-12,Government,Canada,Montana,Units Sold,1611.9
+2013-12,Government,Canada,Paseo,COGS,18366.17
+2013-12,Government,Canada,Paseo,Discounts,1731.3
+2013-12,Government,Canada,Paseo,Gross Sales,36056.26
+2013-12,Government,Canada,Paseo,Units Sold,1802.81
+2013-12,Government,France,Paseo,COGS,10566.92
+2013-12,Government,France,Paseo,Discounts,732.67
+2013-12,Government,France,Paseo,Gross Sales,14893.46
+2013-12,Government,France,Paseo,Units Sold,2127.64
+2013-12,Government,France,VTT,COGS,330123.46
+2013-12,Government,France,VTT,Discounts,59634.6
+2013-12,Government,France,VTT,Gross Sales,436856.02
+2013-12,Government,France,VTT,Units Sold,1248.16
+2013-12,Government,France,Velo,COGS,9575.54
+2013-12,Government,France,Velo,Discounts,984.98
+2013-12,Government,France,Velo,Gross Sales,19468.1
+2013-12,Government,France,Velo,Units Sold,973.4
+2013-12,Government,Germany,Paseo,COGS,10702.22
+2013-12,Government,Germany,Paseo,Discounts,1054.7
+2013-12,Government,Germany,Paseo,Gross Sales,14930.25
+2013-12,Government,Germany,Paseo,Units Sold,2132.89
+2013-12,Government,Germany,VTT,COGS,474803.59
+2013-12,Government,Germany,VTT,Discounts,65170.9
+2013-12,Government,Germany,VTT,Gross Sales,634690.42
+2013-12,Government,Germany,VTT,Units Sold,1813.4
+2013-12,Government,Germany,Velo,COGS,5882.08
+2013-12,Government,Germany,Velo,Discounts,844.68
+2013-12,Government,Germany,Velo,Gross Sales,11800.52
+2013-12,Government,Germany,Velo,Units Sold,590.03
+2013-12,Government,Mexico,Paseo,COGS,9502.08
+2013-12,Government,Mexico,Paseo,Discounts,1091.82
+2013-12,Government,Mexico,Paseo,Gross Sales,13196.14
+2013-12,Government,Mexico,Paseo,Units Sold,1885.16
+2013-12,Government,Mexico,VTT,COGS,480122.41
+2013-12,Government,Mexico,VTT,Discounts,12994.86
+2013-12,Government,Mexico,VTT,Gross Sales,649780.62
+2013-12,Government,Mexico,VTT,Units Sold,1856.52
+2013-12,Government,Mexico,Velo,COGS,5419.94
+2013-12,Government,Mexico,Velo,Discounts,221.65
+2013-12,Government,Mexico,Velo,Gross Sales,10982.45
+2013-12,Government,Mexico,Velo,Units Sold,549.12
+2013-12,Government,United States of America,Paseo,COGS,10451.09
+2013-12,Government,United States of America,Paseo,Discounts,287.88
+2013-12,Government,United States of America,Paseo,Gross Sales,14176.32
+2013-12,Government,United States of America,Paseo,Units Sold,2025.19
+2013-12,Government,United States of America,VTT,COGS,72266.16
+2013-12,Government,United States of America,VTT,Discounts,1913.75
+2013-12,Government,United States of America,VTT,Gross Sales,95282.43
+2013-12,Government,United States of America,VTT,Units Sold,272.24
+2013-12,Government,United States of America,Velo,COGS,15272.38
+2013-12,Government,United States of America,Velo,Discounts,2145.3
+2013-12,Government,United States of America,Velo,Gross Sales,31016.76
+2013-12,Government,United States of America,Velo,Units Sold,1550.84
+2013-12,Midmarket,Canada,Paseo,COGS,22007.41
+2013-12,Midmarket,Canada,Paseo,Discounts,0.0
+2013-12,Midmarket,Canada,Paseo,Gross Sales,32640.03
+2013-12,Midmarket,Canada,Paseo,Units Sold,2176.0
+2013-12,Midmarket,France,Paseo,COGS,22710.57
+2013-12,Midmarket,France,Paseo,Discounts,1349.25
+2013-12,Midmarket,France,Paseo,Gross Sales,34579.49
+2013-12,Midmarket,France,Paseo,Units Sold,2305.3
+2013-12,Midmarket,Germany,Paseo,COGS,19787.12
+2013-12,Midmarket,Germany,Paseo,Discounts,1539.28
+2013-12,Midmarket,Germany,Paseo,Gross Sales,30400.99
+2013-12,Midmarket,Germany,Paseo,Units Sold,2026.73
+2013-12,Midmarket,Mexico,Paseo,COGS,3683.97
+2013-12,Midmarket,Mexico,Paseo,Discounts,647.85
+2013-12,Midmarket,Mexico,Paseo,Gross Sales,5414.01
+2013-12,Midmarket,Mexico,Paseo,Units Sold,360.93
+2013-12,Midmarket,United States of America,Paseo,COGS,19809.23
+2013-12,Midmarket,United States of America,Paseo,Discounts,603.01
+2013-12,Midmarket,United States of America,Paseo,Gross Sales,30762.28
+2013-12,Midmarket,United States of America,Paseo,Units Sold,2050.82
+2013-12,Small Business,Canada,VTT,COGS,597794.16
+2013-12,Small Business,Canada,VTT,Discounts,41418.29
+2013-12,Small Business,Canada,VTT,Gross Sales,704297.35
+2013-12,Small Business,Canada,VTT,Units Sold,2347.66
+2013-12,Small Business,France,Montana,COGS,282936.42
+2013-12,Small Business,France,Montana,Discounts,39462.85
+2013-12,Small Business,France,Montana,Gross Sales,341248.52
+2013-12,Small Business,France,Montana,Units Sold,1137.5
+2013-12,Small Business,Germany,Montana,COGS,83016.78
+2013-12,Small Business,Germany,Montana,Discounts,9268.31
+2013-12,Small Business,Germany,Montana,Gross Sales,100043.41
+2013-12,Small Business,Germany,Montana,Units Sold,333.48
+2013-12,Small Business,Mexico,Montana,COGS,276255.19
+2013-12,Small Business,Mexico,Montana,Discounts,16479.36
+2013-12,Small Business,Mexico,Montana,Gross Sales,328811.61
+2013-12,Small Business,Mexico,Montana,Units Sold,1096.04
+2013-12,Small Business,United States of America,VTT,COGS,197102.59
+2013-12,Small Business,United States of America,VTT,Discounts,18220.28
+2013-12,Small Business,United States of America,VTT,Gross Sales,233805.36
+2013-12,Small Business,United States of America,VTT,Units Sold,779.35
+2014-01,Channel Partners,Canada,VTT,COGS,9456.57
+2014-01,Channel Partners,Canada,VTT,Discounts,2757.64
+2014-01,Channel Partners,Canada,VTT,Gross Sales,38461.93
+2014-01,Channel Partners,Canada,VTT,Units Sold,3205.16
+2014-01,Channel Partners,France,VTT,COGS,5542.64
+2014-01,Channel Partners,France,VTT,Discounts,2363.83
+2014-01,Channel Partners,France,VTT,Gross Sales,21856.81
+2014-01,Channel Partners,France,VTT,Units Sold,1821.4
+2014-01,Channel Partners,Germany,VTT,COGS,7217.38
+2014-01,Channel Partners,Germany,VTT,Discounts,827.66
+2014-01,Channel Partners,Germany,VTT,Gross Sales,28804.23
+2014-01,Channel Partners,Germany,VTT,Units Sold,2400.35
+2014-01,Channel Partners,Mexico,Montana,COGS,6472.58
+2014-01,Channel Partners,Mexico,Montana,Discounts,1915.98
+2014-01,Channel Partners,Mexico,Montana,Gross Sales,26557.46
+2014-01,Channel Partners,Mexico,Montana,Units Sold,2213.12
+2014-01,Channel Partners,United States of America,VTT,COGS,6072.77
+2014-01,Channel Partners,United States of America,VTT,Discounts,2158.3
+2014-01,Channel Partners,United States of America,VTT,Gross Sales,24373.88
+2014-01,Channel Partners,United States of America,VTT,Units Sold,2031.16
+2014-01,Enterprise,Canada,Amarilla,COGS,208648.19
+2014-01,Enterprise,Canada,Amarilla,Discounts,27157.6
+2014-01,Enterprise,Canada,Amarilla,Gross Sales,211499.08
+2014-01,Enterprise,Canada,Amarilla,Units Sold,1691.99
+2014-01,Enterprise,France,Amarilla,COGS,240454.41
+2014-01,Enterprise,France,Amarilla,Discounts,14558.78
+2014-01,Enterprise,France,Amarilla,Gross Sales,242346.99
+2014-01,Enterprise,France,Amarilla,Units Sold,1938.78
+2014-01,Enterprise,Germany,Amarilla,COGS,361623.33
+2014-01,Enterprise,Germany,Amarilla,Discounts,42250.17
+2014-01,Enterprise,Germany,Amarilla,Gross Sales,371363.03
+2014-01,Enterprise,Germany,Amarilla,Units Sold,2970.9
+2014-01,Enterprise,Mexico,VTT,COGS,62992.86
+2014-01,Enterprise,Mexico,VTT,Discounts,7398.4
+2014-01,Enterprise,Mexico,VTT,Gross Sales,67217.81
+2014-01,Enterprise,Mexico,VTT,Units Sold,537.74
+2014-01,Enterprise,United States of America,Amarilla,COGS,70008.39
+2014-01,Enterprise,United States of America,Amarilla,Discounts,6961.89
+2014-01,Enterprise,United States of America,Amarilla,Gross Sales,72216.8
+2014-01,Enterprise,United States of America,Amarilla,Units Sold,577.73
+2014-01,Government,Canada,Carretera,COGS,17246.1
+2014-01,Government,Canada,Carretera,Discounts,0.0
+2014-01,Government,Canada,Carretera,Gross Sales,33915.05
+2014-01,Government,Canada,Carretera,Units Sold,1695.75
+2014-01,Government,Canada,Montana,COGS,563692.04
+2014-01,Government,Canada,Montana,Discounts,103190.86
+2014-01,Government,Canada,Montana,Gross Sales,747960.19
+2014-01,Government,Canada,Montana,Units Sold,2137.03
+2014-01,Government,Canada,Paseo,COGS,21515.82
+2014-01,Government,Canada,Paseo,Discounts,1253.45
+2014-01,Government,Canada,Paseo,Gross Sales,29656.57
+2014-01,Government,Canada,Paseo,Units Sold,4236.65
+2014-01,Government,France,Carretera,COGS,26093.44
+2014-01,Government,France,Carretera,Discounts,6217.05
+2014-01,Government,France,Carretera,Gross Sales,51810.46
+2014-01,Government,France,Carretera,Units Sold,2590.52
+2014-01,Government,France,Montana,COGS,326790.96
+2014-01,Government,France,Montana,Discounts,20550.48
+2014-01,Government,France,Montana,Gross Sales,440548.93
+2014-01,Government,France,Montana,Units Sold,1258.71
+2014-01,Government,France,Paseo,COGS,20307.62
+2014-01,Government,France,Paseo,Discounts,290.89
+2014-01,Government,France,Paseo,Gross Sales,28780.86
+2014-01,Government,France,Paseo,Units Sold,4111.55
+2014-01,Government,Germany,Carretera,COGS,12121.47
+2014-01,Government,Germany,Carretera,Discounts,0.0
+2014-01,Government,Germany,Carretera,Gross Sales,25199.48
+2014-01,Government,Germany,Carretera,Units Sold,1259.97
+2014-01,Government,Germany,Montana,COGS,203193.39
+2014-01,Government,Germany,Montana,Discounts,31298.15
+2014-01,Government,Germany,Montana,Gross Sales,271684.06
+2014-01,Government,Germany,Montana,Units Sold,776.24
+2014-01,Government,Germany,Paseo,COGS,6953.8
+2014-01,Government,Germany,Paseo,Discounts,511.6
+2014-01,Government,Germany,Paseo,Gross Sales,9699.23
+2014-01,Government,Germany,Paseo,Units Sold,1385.6
+2014-01,Government,Mexico,Amarilla,COGS,27761.83
+2014-01,Government,Mexico,Amarilla,Discounts,5855.46
+2014-01,Government,Mexico,Amarilla,Gross Sales,54911.31
+2014-01,Government,Mexico,Amarilla,Units Sold,2745.57
+2014-01,Government,Mexico,Paseo,COGS,625236.84
+2014-01,Government,Mexico,Paseo,Discounts,79961.76
+2014-01,Government,Mexico,Paseo,Gross Sales,864799.11
+2014-01,Government,Mexico,Paseo,Units Sold,2470.85
+2014-01,Government,Mexico,Velo,COGS,6875.41
+2014-01,Government,Mexico,Velo,Discounts,0.0
+2014-01,Government,Mexico,Velo,Gross Sales,9502.99
+2014-01,Government,Mexico,Velo,Units Sold,1357.57
+2014-01,Government,United States of America,Carretera,COGS,11274.65
+2014-01,Government,United States of America,Carretera,Discounts,1308.3
+2014-01,Government,United States of America,Carretera,Gross Sales,21659.3
+2014-01,Government,United States of America,Carretera,Units Sold,1082.97
+2014-01,Government,United States of America,Montana,COGS,257269.11
+2014-01,Government,United States of America,Montana,Discounts,43234.93
+2014-01,Government,United States of America,Montana,Gross Sales,345781.28
+2014-01,Government,United States of America,Montana,Units Sold,987.95
+2014-01,Government,United States of America,Paseo,COGS,7127.82
+2014-01,Government,United States of America,Paseo,Discounts,1273.75
+2014-01,Government,United States of America,Paseo,Gross Sales,9991.27
+2014-01,Government,United States of America,Paseo,Units Sold,1427.32
+2014-01,Midmarket,Canada,Velo,COGS,3938.26
+2014-01,Midmarket,Canada,Velo,Discounts,632.72
+2014-01,Midmarket,Canada,Velo,Gross Sales,5871.1
+2014-01,Midmarket,Canada,Velo,Units Sold,391.41
+2014-01,Midmarket,France,Velo,COGS,42934.31
+2014-01,Midmarket,France,Velo,Discounts,8262.05
+2014-01,Midmarket,France,Velo,Gross Sales,61886.0
+2014-01,Midmarket,France,Velo,Units Sold,4125.73
+2014-01,Midmarket,Germany,Velo,COGS,6834.92
+2014-01,Midmarket,Germany,Velo,Discounts,1071.81
+2014-01,Midmarket,Germany,Velo,Gross Sales,10466.66
+2014-01,Midmarket,Germany,Velo,Units Sold,697.78
+2014-01,Midmarket,Mexico,Velo,COGS,28481.11
+2014-01,Midmarket,Mexico,Velo,Discounts,2145.1
+2014-01,Midmarket,Mexico,Velo,Gross Sales,42548.75
+2014-01,Midmarket,Mexico,Velo,Units Sold,2836.58
+2014-01,Midmarket,United States of America,Velo,COGS,5072.44
+2014-01,Midmarket,United States of America,Velo,Discounts,370.95
+2014-01,Midmarket,United States of America,Velo,Gross Sales,7732.32
+2014-01,Midmarket,United States of America,Velo,Units Sold,515.49
+2014-01,Small Business,Canada,Paseo,COGS,211965.08
+2014-01,Small Business,Canada,Paseo,Discounts,28024.4
+2014-01,Small Business,Canada,Paseo,Gross Sales,257171.58
+2014-01,Small Business,Canada,Paseo,Units Sold,857.24
+2014-01,Small Business,France,Paseo,COGS,618232.59
+2014-01,Small Business,France,Paseo,Discounts,21779.8
+2014-01,Small Business,France,Paseo,Gross Sales,742615.64
+2014-01,Small Business,France,Paseo,Units Sold,2475.39
+2014-01,Small Business,Germany,Paseo,COGS,198343.67
+2014-01,Small Business,Germany,Paseo,Discounts,30915.82
+2014-01,Small Business,Germany,Paseo,Gross Sales,231767.1
+2014-01,Small Business,Germany,Paseo,Units Sold,772.56
+2014-01,Small Business,Mexico,Paseo,COGS,681336.73
+2014-01,Small Business,Mexico,Paseo,Discounts,73536.48
+2014-01,Small Business,Mexico,Paseo,Gross Sales,789178.04
+2014-01,Small Business,Mexico,Paseo,Units Sold,2630.59
+2014-01,Small Business,United States of America,Paseo,COGS,914203.27
+2014-01,Small Business,United States of America,Paseo,Discounts,134610.82
+2014-01,Small Business,United States of America,Paseo,Gross Sales,1087298.63
+2014-01,Small Business,United States of America,Paseo,Units Sold,3624.33
+2014-02,Channel Partners,Canada,Carretera,COGS,5796.57
+2014-02,Channel Partners,Canada,Carretera,Discounts,2511.62
+2014-02,Channel Partners,Canada,Carretera,Gross Sales,23362.26
+2014-02,Channel Partners,Canada,Carretera,Units Sold,1946.85
+2014-02,Channel Partners,France,Carretera,COGS,5196.44
+2014-02,Channel Partners,France,Carretera,Discounts,908.58
+2014-02,Channel Partners,France,Carretera,Gross Sales,19798.7
+2014-02,Channel Partners,France,Carretera,Units Sold,1649.89
+2014-02,Channel Partners,Germany,Carretera,COGS,3153.94
+2014-02,Channel Partners,Germany,Carretera,Discounts,602.5
+2014-02,Channel Partners,Germany,Carretera,Gross Sales,12724.56
+2014-02,Channel Partners,Germany,Carretera,Units Sold,1060.38
+2014-02,Channel Partners,Mexico,Carretera,COGS,2325.05
+2014-02,Channel Partners,Mexico,Carretera,Discounts,686.62
+2014-02,Channel Partners,Mexico,Carretera,Gross Sales,9407.67
+2014-02,Channel Partners,Mexico,Carretera,Units Sold,783.97
+2014-02,Channel Partners,United States of America,Carretera,COGS,5259.87
+2014-02,Channel Partners,United States of America,Carretera,Discounts,215.51
+2014-02,Channel Partners,United States of America,Carretera,Gross Sales,21813.87
+2014-02,Channel Partners,United States of America,Carretera,Units Sold,1817.82
+2014-02,Enterprise,Canada,Velo,COGS,108470.14
+2014-02,Enterprise,Canada,Velo,Discounts,6446.7
+2014-02,Enterprise,Canada,Velo,Gross Sales,109920.54
+2014-02,Enterprise,Canada,Velo,Units Sold,879.36
+2014-02,Enterprise,France,Velo,COGS,231849.36
+2014-02,Enterprise,France,Velo,Discounts,0.0
+2014-02,Enterprise,France,Velo,Gross Sales,236921.78
+2014-02,Enterprise,France,Velo,Units Sold,1895.37
+2014-02,Enterprise,Germany,Velo,COGS,101577.06
+2014-02,Enterprise,Germany,Velo,Discounts,5237.98
+2014-02,Enterprise,Germany,Velo,Gross Sales,100928.9
+2014-02,Enterprise,Germany,Velo,Units Sold,807.43
+2014-02,Enterprise,Mexico,Velo,COGS,192050.95
+2014-02,Enterprise,Mexico,Velo,Discounts,28829.15
+2014-02,Enterprise,Mexico,Velo,Gross Sales,205771.56
+2014-02,Enterprise,Mexico,Velo,Units Sold,1646.17
+2014-02,Enterprise,United States of America,Velo,COGS,344031.69
+2014-02,Enterprise,United States of America,Velo,Discounts,20708.78
+2014-02,Enterprise,United States of America,Velo,Gross Sales,348211.32
+2014-02,Enterprise,United States of America,Velo,Units Sold,2785.69
+2014-02,Government,Canada,Amarilla,COGS,594013.23
+2014-02,Government,Canada,Amarilla,Discounts,79534.86
+2014-02,Government,Canada,Amarilla,Gross Sales,798513.11
+2014-02,Government,Canada,Amarilla,Units Sold,2281.47
+2014-02,Government,Canada,Montana,COGS,2515.6
+2014-02,Government,Canada,Montana,Discounts,279.17
+2014-02,Government,Canada,Montana,Gross Sales,3465.96
+2014-02,Government,Canada,Montana,Units Sold,495.14
+2014-02,Government,Canada,Paseo,COGS,2903.66
+2014-02,Government,Canada,Paseo,Discounts,0.0
+2014-02,Government,Canada,Paseo,Gross Sales,6005.23
+2014-02,Government,Canada,Paseo,Units Sold,300.26
+2014-02,Government,France,Amarilla,COGS,806189.32
+2014-02,Government,France,Amarilla,Discounts,0.0
+2014-02,Government,France,Amarilla,Gross Sales,1054298.91
+2014-02,Government,France,Amarilla,Units Sold,3012.28
+2014-02,Government,France,Montana,COGS,1546.98
+2014-02,Government,France,Montana,Discounts,305.01
+2014-02,Government,France,Montana,Gross Sales,2132.23
+2014-02,Government,France,Montana,Units Sold,304.6
+2014-02,Government,France,Paseo,COGS,12222.3
+2014-02,Government,France,Paseo,Discounts,1266.09
+2014-02,Government,France,Paseo,Gross Sales,24463.64
+2014-02,Government,France,Paseo,Units Sold,1223.18
+2014-02,Government,Germany,Amarilla,COGS,361937.81
+2014-02,Government,Germany,Amarilla,Discounts,23206.94
+2014-02,Government,Germany,Amarilla,Gross Sales,481017.77
+2014-02,Government,Germany,Amarilla,Units Sold,1374.34
+2014-02,Government,Germany,Montana,COGS,10090.48
+2014-02,Government,Germany,Montana,Discounts,440.14
+2014-02,Government,Germany,Montana,Gross Sales,14346.31
+2014-02,Government,Germany,Montana,Units Sold,2049.47
+2014-02,Government,Germany,Paseo,COGS,28085.32
+2014-02,Government,Germany,Paseo,Discounts,7322.51
+2014-02,Government,Germany,Paseo,Gross Sales,56829.22
+2014-02,Government,Germany,Paseo,Units Sold,2841.46
+2014-02,Government,Mexico,Amarilla,COGS,472277.33
+2014-02,Government,Mexico,Amarilla,Discounts,23730.72
+2014-02,Government,Mexico,Amarilla,Gross Sales,641705.84
+2014-02,Government,Mexico,Amarilla,Units Sold,1833.45
+2014-02,Government,Mexico,Montana,COGS,6900.73
+2014-02,Government,Mexico,Montana,Discounts,1408.84
+2014-02,Government,Mexico,Montana,Gross Sales,10032.78
+2014-02,Government,Mexico,Montana,Units Sold,1433.25
+2014-02,Government,Mexico,Paseo,COGS,2744.8
+2014-02,Government,Mexico,Paseo,Discounts,732.45
+2014-02,Government,Mexico,Paseo,Gross Sales,5396.6
+2014-02,Government,Mexico,Paseo,Units Sold,269.83
+2014-02,Government,United States of America,Amarilla,COGS,79662.69
+2014-02,Government,United States of America,Amarilla,Discounts,12769.35
+2014-02,Government,United States of America,Amarilla,Gross Sales,104742.04
+2014-02,Government,United States of America,Amarilla,Units Sold,299.26
+2014-02,Government,United States of America,Montana,COGS,6209.85
+2014-02,Government,United States of America,Montana,Discounts,1150.18
+2014-02,Government,United States of America,Montana,Gross Sales,8817.47
+2014-02,Government,United States of America,Montana,Units Sold,1259.64
+2014-02,Government,United States of America,Paseo,COGS,26059.61
+2014-02,Government,United States of America,Paseo,Discounts,6765.86
+2014-02,Government,United States of America,Paseo,Gross Sales,51758.77
+2014-02,Government,United States of America,Paseo,Units Sold,2587.94
+2014-02,Midmarket,Canada,Paseo,COGS,23218.45
+2014-02,Midmarket,Canada,Paseo,Discounts,741.26
+2014-02,Midmarket,Canada,Paseo,Gross Sales,35013.63
+2014-02,Midmarket,Canada,Paseo,Units Sold,2334.24
+2014-02,Midmarket,France,Paseo,COGS,22661.98
+2014-02,Midmarket,France,Paseo,Discounts,324.85
+2014-02,Midmarket,France,Paseo,Gross Sales,33771.25
+2014-02,Midmarket,France,Paseo,Units Sold,2251.42
+2014-02,Midmarket,Germany,Paseo,COGS,2649.1
+2014-02,Midmarket,Germany,Paseo,Discounts,562.92
+2014-02,Midmarket,Germany,Paseo,Gross Sales,4024.16
+2014-02,Midmarket,Germany,Paseo,Units Sold,268.28
+2014-02,Midmarket,Mexico,Paseo,COGS,8566.91
+2014-02,Midmarket,Mexico,Paseo,Discounts,0.0
+2014-02,Midmarket,Mexico,Paseo,Gross Sales,13081.5
+2014-02,Midmarket,Mexico,Paseo,Units Sold,872.1
+2014-02,Midmarket,United States of America,Paseo,COGS,15192.1
+2014-02,Midmarket,United States of America,Paseo,Discounts,218.26
+2014-02,Midmarket,United States of America,Paseo,Gross Sales,22318.53
+2014-02,Midmarket,United States of America,Paseo,Units Sold,1487.9
+2014-02,Small Business,Canada,VTT,COGS,507047.19
+2014-02,Small Business,Canada,VTT,Discounts,0.0
+2014-02,Small Business,Canada,VTT,Gross Sales,609234.87
+2014-02,Small Business,Canada,VTT,Units Sold,2030.78
+2014-02,Small Business,France,VTT,COGS,244572.95
+2014-02,Small Business,France,VTT,Discounts,18797.82
+2014-02,Small Business,France,VTT,Gross Sales,282079.63
+2014-02,Small Business,France,VTT,Units Sold,940.27
+2014-02,Small Business,Germany,VTT,COGS,718921.41
+2014-02,Small Business,Germany,VTT,Discounts,80852.73
+2014-02,Small Business,Germany,VTT,Gross Sales,861907.39
+2014-02,Small Business,Germany,VTT,Units Sold,2873.02
+2014-02,Small Business,Mexico,VTT,COGS,674391.04
+2014-02,Small Business,Mexico,VTT,Discounts,56537.63
+2014-02,Small Business,Mexico,VTT,Gross Sales,824541.04
+2014-02,Small Business,Mexico,VTT,Units Sold,2748.47
+2014-02,Small Business,United States of America,VTT,COGS,767053.21
+2014-02,Small Business,United States of America,VTT,Discounts,28595.07
+2014-02,Small Business,United States of America,VTT,Gross Sales,898417.74
+2014-02,Small Business,United States of America,VTT,Units Sold,2994.73
+2014-03,Channel Partners,Canada,Velo,COGS,1835.73
+2014-03,Channel Partners,Canada,Velo,Discounts,579.55
+2014-03,Channel Partners,Canada,Velo,Gross Sales,7251.43
+2014-03,Channel Partners,Canada,Velo,Units Sold,604.29
+2014-03,Channel Partners,France,Velo,COGS,6187.99
+2014-03,Channel Partners,France,Velo,Discounts,2263.48
+2014-03,Channel Partners,France,Velo,Gross Sales,24397.3
+2014-03,Channel Partners,France,Velo,Units Sold,2033.11
+2014-03,Channel Partners,Germany,Velo,COGS,6711.93
+2014-03,Channel Partners,Germany,Velo,Discounts,0.0
+2014-03,Channel Partners,Germany,Velo,Gross Sales,26223.28
+2014-03,Channel Partners,Germany,Velo,Units Sold,2185.27
+2014-03,Channel Partners,Mexico,Velo,COGS,1563.73
+2014-03,Channel Partners,Mexico,Velo,Discounts,949.77
+2014-03,Channel Partners,Mexico,Velo,Gross Sales,6337.67
+2014-03,Channel Partners,Mexico,Velo,Units Sold,528.14
+2014-03,Channel Partners,United States of America,Velo,COGS,4393.63
+2014-03,Channel Partners,United States of America,Velo,Discounts,692.43
+2014-03,Channel Partners,United States of America,Velo,Gross Sales,17619.38
+2014-03,Channel Partners,United States of America,Velo,Units Sold,1468.28
+2014-03,Enterprise,Canada,Paseo,COGS,216402.17
+2014-03,Enterprise,Canada,Paseo,Discounts,6810.09
+2014-03,Enterprise,Canada,Paseo,Gross Sales,226194.55
+2014-03,Enterprise,Canada,Paseo,Units Sold,1809.56
+2014-03,Enterprise,France,Paseo,COGS,282927.36
+2014-03,Enterprise,France,Paseo,Discounts,15270.59
+2014-03,Enterprise,France,Paseo,Gross Sales,302525.68
+2014-03,Enterprise,France,Paseo,Units Sold,2420.21
+2014-03,Enterprise,Germany,Paseo,COGS,93809.06
+2014-03,Enterprise,Germany,Paseo,Discounts,3836.98
+2014-03,Enterprise,Germany,Paseo,Gross Sales,98235.65
+2014-03,Enterprise,Germany,Paseo,Units Sold,785.89
+2014-03,Enterprise,Mexico,Paseo,COGS,139494.45
+2014-03,Enterprise,Mexico,Paseo,Discounts,11279.46
+2014-03,Enterprise,Mexico,Paseo,Gross Sales,141524.12
+2014-03,Enterprise,Mexico,Paseo,Units Sold,1132.19
+2014-03,Enterprise,United States of America,Paseo,COGS,394470.67
+2014-03,Enterprise,United States of America,Paseo,Discounts,20074.02
+2014-03,Enterprise,United States of America,Paseo,Gross Sales,408965.68
+2014-03,Enterprise,United States of America,Paseo,Units Sold,3271.73
+2014-03,Government,Canada,Carretera,COGS,231007.34
+2014-03,Government,Canada,Carretera,Discounts,44410.89
+2014-03,Government,Canada,Carretera,Gross Sales,319574.76
+2014-03,Government,Canada,Carretera,Units Sold,913.07
+2014-03,Government,Canada,Paseo,COGS,23922.52
+2014-03,Government,Canada,Paseo,Discounts,6894.82
+2014-03,Government,Canada,Paseo,Gross Sales,49381.64
+2014-03,Government,Canada,Paseo,Units Sold,2469.08
+2014-03,Government,Canada,VTT,COGS,7204.24
+2014-03,Government,Canada,VTT,Discounts,102.13
+2014-03,Government,Canada,VTT,Gross Sales,9760.94
+2014-03,Government,Canada,VTT,Units Sold,1394.42
+2014-03,Government,France,Carretera,COGS,486238.56
+2014-03,Government,France,Carretera,Discounts,84745.46
+2014-03,Government,France,Carretera,Gross Sales,655736.42
+2014-03,Government,France,Carretera,Units Sold,1873.53
+2014-03,Government,France,Paseo,COGS,19296.03
+2014-03,Government,France,Paseo,Discounts,3940.25
+2014-03,Government,France,Paseo,Gross Sales,39098.32
+2014-03,Government,France,Paseo,Units Sold,1954.92
+2014-03,Government,France,VTT,COGS,6739.96
+2014-03,Government,France,VTT,Discounts,1093.42
+2014-03,Government,France,VTT,Gross Sales,9487.94
+2014-03,Government,France,VTT,Units Sold,1355.42
+2014-03,Government,Germany,Carretera,COGS,204009.06
+2014-03,Government,Germany,Carretera,Discounts,30711.27
+2014-03,Government,Germany,Carretera,Gross Sales,282988.82
+2014-03,Government,Germany,Carretera,Units Sold,808.54
+2014-03,Government,Germany,Paseo,COGS,10897.84
+2014-03,Government,Germany,Paseo,Discounts,3198.95
+2014-03,Government,Germany,Paseo,Gross Sales,21192.51
+2014-03,Government,Germany,Paseo,Units Sold,1059.63
+2014-03,Government,Germany,VTT,COGS,1383.67
+2014-03,Government,Germany,VTT,Discounts,20.45
+2014-03,Government,Germany,VTT,Gross Sales,1952.49
+2014-03,Government,Germany,VTT,Units Sold,278.93
+2014-03,Government,Mexico,Carretera,COGS,325402.12
+2014-03,Government,Mexico,Carretera,Discounts,4292.2
+2014-03,Government,Mexico,Carretera,Gross Sales,426380.64
+2014-03,Government,Mexico,Carretera,Units Sold,1218.23
+2014-03,Government,Mexico,Paseo,COGS,11689.81
+2014-03,Government,Mexico,Paseo,Discounts,2675.75
+2014-03,Government,Mexico,Paseo,Gross Sales,23355.49
+2014-03,Government,Mexico,Paseo,Units Sold,1167.77
+2014-03,Government,Mexico,VTT,COGS,14400.86
+2014-03,Government,Mexico,VTT,Discounts,2796.86
+2014-03,Government,Mexico,VTT,Gross Sales,19600.8
+2014-03,Government,Mexico,VTT,Units Sold,2800.11
+2014-03,Government,United States of America,Carretera,COGS,432500.69
+2014-03,Government,United States of America,Carretera,Discounts,42526.28
+2014-03,Government,United States of America,Carretera,Gross Sales,579238.72
+2014-03,Government,United States of America,Carretera,Units Sold,1654.97
+2014-03,Government,United States of America,Paseo,COGS,9999.8
+2014-03,Government,United States of America,Paseo,Discounts,1766.63
+2014-03,Government,United States of America,Paseo,Gross Sales,19664.03
+2014-03,Government,United States of America,Paseo,Units Sold,983.2
+2014-03,Government,United States of America,VTT,COGS,7997.79
+2014-03,Government,United States of America,VTT,Discounts,1301.26
+2014-03,Government,United States of America,VTT,Gross Sales,11038.15
+2014-03,Government,United States of America,VTT,Units Sold,1576.88
+2014-03,Midmarket,Canada,Montana,COGS,19527.46
+2014-03,Midmarket,Canada,Montana,Discounts,1140.37
+2014-03,Midmarket,Canada,Montana,Gross Sales,28930.55
+2014-03,Midmarket,Canada,Montana,Units Sold,1928.7
+2014-03,Midmarket,France,Montana,COGS,25269.47
+2014-03,Midmarket,France,Montana,Discounts,2942.14
+2014-03,Midmarket,France,Montana,Gross Sales,37642.26
+2014-03,Midmarket,France,Montana,Units Sold,2509.48
+2014-03,Midmarket,Germany,Montana,COGS,10240.18
+2014-03,Midmarket,Germany,Montana,Discounts,0.0
+2014-03,Midmarket,Germany,Montana,Gross Sales,15432.14
+2014-03,Midmarket,Germany,Montana,Units Sold,1028.81
+2014-03,Midmarket,Mexico,Montana,COGS,23768.47
+2014-03,Midmarket,Mexico,Montana,Discounts,367.39
+2014-03,Midmarket,Mexico,Montana,Gross Sales,34337.29
+2014-03,Midmarket,Mexico,Montana,Units Sold,2289.15
+2014-03,Midmarket,United States of America,Montana,COGS,6932.19
+2014-03,Midmarket,United States of America,Montana,Discounts,1302.09
+2014-03,Midmarket,United States of America,Montana,Gross Sales,10590.38
+2014-03,Midmarket,United States of America,Montana,Units Sold,706.03
+2014-03,Small Business,Canada,Amarilla,COGS,229641.87
+2014-03,Small Business,Canada,Amarilla,Discounts,38189.83
+2014-03,Small Business,Canada,Amarilla,Gross Sales,275546.5
+2014-03,Small Business,Canada,Amarilla,Units Sold,918.49
+2014-03,Small Business,France,Amarilla,COGS,656667.28
+2014-03,Small Business,France,Amarilla,Discounts,122592.65
+2014-03,Small Business,France,Amarilla,Gross Sales,787766.21
+2014-03,Small Business,France,Amarilla,Units Sold,2625.89
+2014-03,Small Business,Germany,Amarilla,COGS,64776.79
+2014-03,Small Business,Germany,Amarilla,Discounts,1574.05
+2014-03,Small Business,Germany,Amarilla,Gross Sales,77111.5
+2014-03,Small Business,Germany,Amarilla,Units Sold,257.04
+2014-03,Small Business,Mexico,Amarilla,COGS,251354.12
+2014-03,Small Business,Mexico,Amarilla,Discounts,6443.67
+2014-03,Small Business,Mexico,Amarilla,Gross Sales,304238.18
+2014-03,Small Business,Mexico,Amarilla,Units Sold,1014.13
+2014-03,Small Business,United States of America,Amarilla,COGS,747301.63
+2014-03,Small Business,United States of America,Amarilla,Discounts,84977.16
+2014-03,Small Business,United States of America,Amarilla,Gross Sales,891152.22
+2014-03,Small Business,United States of America,Amarilla,Units Sold,2970.51
+2014-04,Channel Partners,Canada,Amarilla,COGS,10873.21
+2014-04,Channel Partners,Canada,Amarilla,Discounts,4329.28
+2014-04,Channel Partners,Canada,Amarilla,Gross Sales,43640.22
+2014-04,Channel Partners,Canada,Amarilla,Units Sold,3636.68
+2014-04,Channel Partners,France,VTT,COGS,4858.32
+2014-04,Channel Partners,France,VTT,Discounts,1385.28
+2014-04,Channel Partners,France,VTT,Gross Sales,20068.22
+2014-04,Channel Partners,France,VTT,Units Sold,1672.35
+2014-04,Channel Partners,Germany,VTT,COGS,8455.76
+2014-04,Channel Partners,Germany,VTT,Discounts,0.0
+2014-04,Channel Partners,Germany,VTT,Gross Sales,33816.59
+2014-04,Channel Partners,Germany,VTT,Units Sold,2818.05
+2014-04,Channel Partners,Mexico,VTT,COGS,5468.06
+2014-04,Channel Partners,Mexico,VTT,Discounts,692.28
+2014-04,Channel Partners,Mexico,VTT,Gross Sales,22364.51
+2014-04,Channel Partners,Mexico,VTT,Units Sold,1863.71
+2014-04,Channel Partners,United States of America,Amarilla,COGS,6005.99
+2014-04,Channel Partners,United States of America,Amarilla,Discounts,0.0
+2014-04,Channel Partners,United States of America,Amarilla,Gross Sales,24887.22
+2014-04,Channel Partners,United States of America,Amarilla,Units Sold,2073.94
+2014-04,Enterprise,Canada,Carretera,COGS,92062.84
+2014-04,Enterprise,Canada,Carretera,Discounts,1955.18
+2014-04,Enterprise,Canada,Carretera,Gross Sales,95636.98
+2014-04,Enterprise,Canada,Carretera,Units Sold,765.1
+2014-04,Enterprise,France,Carretera,COGS,527765.54
+2014-04,Enterprise,France,Carretera,Discounts,17489.58
+2014-04,Enterprise,France,Carretera,Gross Sales,544443.28
+2014-04,Enterprise,France,Carretera,Units Sold,4355.55
+2014-04,Enterprise,Germany,Amarilla,COGS,524555.53
+2014-04,Enterprise,Germany,Amarilla,Discounts,0.0
+2014-04,Enterprise,Germany,Amarilla,Gross Sales,540716.13
+2014-04,Enterprise,Germany,Amarilla,Units Sold,4325.73
+2014-04,Enterprise,Mexico,Amarilla,COGS,130147.88
+2014-04,Enterprise,Mexico,Amarilla,Discounts,5294.26
+2014-04,Enterprise,Mexico,Amarilla,Gross Sales,134050.12
+2014-04,Enterprise,Mexico,Amarilla,Units Sold,1072.4
+2014-04,Enterprise,United States of America,Carretera,COGS,400632.46
+2014-04,Enterprise,United States of America,Carretera,Discounts,43564.98
+2014-04,Enterprise,United States of America,Carretera,Gross Sales,434104.38
+2014-04,Enterprise,United States of America,Carretera,Units Sold,3472.84
+2014-04,Government,Canada,Paseo,COGS,3353.78
+2014-04,Government,Canada,Paseo,Discounts,745.44
+2014-04,Government,Canada,Paseo,Gross Sales,4826.67
+2014-04,Government,Canada,Paseo,Units Sold,689.52
+2014-04,Government,Canada,VTT,COGS,233638.82
+2014-04,Government,Canada,VTT,Discounts,2974.27
+2014-04,Government,Canada,VTT,Gross Sales,302571.18
+2014-04,Government,Canada,VTT,Units Sold,864.49
+2014-04,Government,Canada,Velo,COGS,37925.54
+2014-04,Government,Canada,Velo,Discounts,2280.22
+2014-04,Government,Canada,Velo,Gross Sales,77473.7
+2014-04,Government,Canada,Velo,Units Sold,3873.69
+2014-04,Government,France,Paseo,COGS,12981.82
+2014-04,Government,France,Paseo,Discounts,2037.71
+2014-04,Government,France,Paseo,Gross Sales,17955.19
+2014-04,Government,France,Paseo,Units Sold,2565.03
+2014-04,Government,France,VTT,COGS,154618.85
+2014-04,Government,France,VTT,Discounts,17074.99
+2014-04,Government,France,VTT,Gross Sales,211040.18
+2014-04,Government,France,VTT,Units Sold,602.97
+2014-04,Government,France,Velo,COGS,41212.17
+2014-04,Government,France,Velo,Discounts,772.45
+2014-04,Government,France,Velo,Gross Sales,82293.21
+2014-04,Government,France,Velo,Units Sold,4114.66
+2014-04,Government,Germany,Carretera,COGS,27124.26
+2014-04,Government,Germany,Carretera,Discounts,1587.74
+2014-04,Government,Germany,Carretera,Gross Sales,54944.39
+2014-04,Government,Germany,Carretera,Units Sold,2747.22
+2014-04,Government,Germany,Montana,COGS,302904.26
+2014-04,Government,Germany,Montana,Discounts,58994.23
+2014-04,Government,Germany,Montana,Gross Sales,403227.16
+2014-04,Government,Germany,Montana,Units Sold,1152.08
+2014-04,Government,Germany,Paseo,COGS,6223.9
+2014-04,Government,Germany,Paseo,Discounts,703.56
+2014-04,Government,Germany,Paseo,Gross Sales,8689.69
+2014-04,Government,Germany,Paseo,Units Sold,1241.38
+2014-04,Government,Mexico,Carretera,COGS,26054.59
+2014-04,Government,Mexico,Carretera,Discounts,7192.96
+2014-04,Government,Mexico,Carretera,Gross Sales,52580.61
+2014-04,Government,Mexico,Carretera,Units Sold,2629.03
+2014-04,Government,Mexico,Montana,COGS,276035.08
+2014-04,Government,Mexico,Montana,Discounts,22657.04
+2014-04,Government,Mexico,Montana,Gross Sales,379557.7
+2014-04,Government,Mexico,Montana,Units Sold,1084.45
+2014-04,Government,Mexico,Paseo,COGS,13520.09
+2014-04,Government,Mexico,Paseo,Discounts,2825.22
+2014-04,Government,Mexico,Paseo,Gross Sales,18827.3
+2014-04,Government,Mexico,Paseo,Units Sold,2689.61
+2014-04,Government,United States of America,Paseo,COGS,22921.37
+2014-04,Government,United States of America,Paseo,Discounts,336.13
+2014-04,Government,United States of America,Paseo,Gross Sales,32887.59
+2014-04,Government,United States of America,Paseo,Units Sold,4698.23
+2014-04,Government,United States of America,VTT,COGS,348939.47
+2014-04,Government,United States of America,VTT,Discounts,40208.96
+2014-04,Government,United States of America,VTT,Gross Sales,465744.28
+2014-04,Government,United States of America,VTT,Units Sold,1330.7
+2014-04,Government,United States of America,Velo,COGS,6156.93
+2014-04,Government,United States of America,Velo,Discounts,1596.58
+2014-04,Government,United States of America,Velo,Gross Sales,11699.3
+2014-04,Government,United States of America,Velo,Units Sold,584.96
+2014-04,Midmarket,Canada,Paseo,COGS,17107.25
+2014-04,Midmarket,Canada,Paseo,Discounts,3778.61
+2014-04,Midmarket,Canada,Paseo,Gross Sales,24986.16
+2014-04,Midmarket,Canada,Paseo,Units Sold,1665.74
+2014-04,Midmarket,France,Paseo,COGS,36895.43
+2014-04,Midmarket,France,Paseo,Discounts,3263.75
+2014-04,Midmarket,France,Paseo,Gross Sales,54559.29
+2014-04,Midmarket,France,Paseo,Units Sold,3637.29
+2014-04,Midmarket,Germany,Velo,COGS,5042.94
+2014-04,Midmarket,Germany,Velo,Discounts,770.74
+2014-04,Midmarket,Germany,Velo,Gross Sales,7577.39
+2014-04,Midmarket,Germany,Velo,Units Sold,505.16
+2014-04,Midmarket,Mexico,Velo,COGS,25145.28
+2014-04,Midmarket,Mexico,Velo,Discounts,3401.29
+2014-04,Midmarket,Mexico,Velo,Gross Sales,39239.43
+2014-04,Midmarket,Mexico,Velo,Units Sold,2615.96
+2014-04,Midmarket,United States of America,Paseo,COGS,38131.97
+2014-04,Midmarket,United States of America,Paseo,Discounts,5344.3
+2014-04,Midmarket,United States of America,Paseo,Gross Sales,58751.68
+2014-04,Midmarket,United States of America,Paseo,Units Sold,3916.78
+2014-04,Small Business,Canada,Montana,COGS,961278.38
+2014-04,Small Business,Canada,Montana,Discounts,104535.89
+2014-04,Small Business,Canada,Montana,Gross Sales,1124679.44
+2014-04,Small Business,Canada,Montana,Units Sold,3748.93
+2014-04,Small Business,France,Montana,COGS,395694.63
+2014-04,Small Business,France,Montana,Discounts,58740.0
+2014-04,Small Business,France,Montana,Gross Sales,482453.97
+2014-04,Small Business,France,Montana,Units Sold,1608.18
+2014-04,Small Business,Germany,Paseo,COGS,355786.58
+2014-04,Small Business,Germany,Paseo,Discounts,17392.26
+2014-04,Small Business,Germany,Paseo,Gross Sales,432999.41
+2014-04,Small Business,Germany,Paseo,Units Sold,1443.33
+2014-04,Small Business,Mexico,Paseo,COGS,389378.01
+2014-04,Small Business,Mexico,Paseo,Discounts,23372.91
+2014-04,Small Business,Mexico,Paseo,Gross Sales,468806.77
+2014-04,Small Business,Mexico,Paseo,Units Sold,1562.69
+2014-04,Small Business,United States of America,Montana,COGS,563992.08
+2014-04,Small Business,United States of America,Montana,Discounts,6741.6
+2014-04,Small Business,United States of America,Montana,Gross Sales,691478.13
+2014-04,Small Business,United States of America,Montana,Units Sold,2304.93
+2014-05,Channel Partners,Canada,VTT,COGS,6150.4
+2014-05,Channel Partners,Canada,VTT,Discounts,3019.91
+2014-05,Channel Partners,Canada,VTT,Gross Sales,25220.38
+2014-05,Channel Partners,Canada,VTT,Units Sold,2101.7
+2014-05,Channel Partners,France,VTT,COGS,2567.12
+2014-05,Channel Partners,France,VTT,Discounts,426.69
+2014-05,Channel Partners,France,VTT,Gross Sales,10278.85
+2014-05,Channel Partners,France,VTT,Units Sold,856.57
+2014-05,Channel Partners,Germany,VTT,COGS,2676.21
+2014-05,Channel Partners,Germany,VTT,Discounts,977.42
+2014-05,Channel Partners,Germany,VTT,Gross Sales,10899.17
+2014-05,Channel Partners,Germany,VTT,Units Sold,908.26
+2014-05,Channel Partners,Mexico,Montana,COGS,7396.95
+2014-05,Channel Partners,Mexico,Montana,Discounts,3507.75
+2014-05,Channel Partners,Mexico,Montana,Gross Sales,30032.92
+2014-05,Channel Partners,Mexico,Montana,Units Sold,2502.74
+2014-05,Channel Partners,United States of America,VTT,COGS,5224.19
+2014-05,Channel Partners,United States of America,VTT,Discounts,3137.24
+2014-05,Channel Partners,United States of America,VTT,Gross Sales,21228.41
+2014-05,Channel Partners,United States of America,VTT,Units Sold,1769.03
+2014-05,Enterprise,Canada,Amarilla,COGS,204995.22
+2014-05,Enterprise,Canada,Amarilla,Discounts,14882.16
+2014-05,Enterprise,Canada,Amarilla,Gross Sales,211328.89
+2014-05,Enterprise,Canada,Amarilla,Units Sold,1690.63
+2014-05,Enterprise,France,Amarilla,COGS,167008.58
+2014-05,Enterprise,France,Amarilla,Discounts,19010.22
+2014-05,Enterprise,France,Amarilla,Gross Sales,174778.68
+2014-05,Enterprise,France,Amarilla,Units Sold,1398.23
+2014-05,Enterprise,Germany,Amarilla,COGS,255183.06
+2014-05,Enterprise,Germany,Amarilla,Discounts,5413.05
+2014-05,Enterprise,Germany,Amarilla,Gross Sales,266768.43
+2014-05,Enterprise,Germany,Amarilla,Units Sold,2134.15
+2014-05,Enterprise,Mexico,VTT,COGS,42530.84
+2014-05,Enterprise,Mexico,VTT,Discounts,4446.7
+2014-05,Enterprise,Mexico,VTT,Gross Sales,43780.27
+2014-05,Enterprise,Mexico,VTT,Units Sold,350.24
+2014-05,Enterprise,United States of America,Amarilla,COGS,355947.13
+2014-05,Enterprise,United States of America,Amarilla,Discounts,53445.17
+2014-05,Enterprise,United States of America,Amarilla,Gross Sales,371834.56
+2014-05,Enterprise,United States of America,Amarilla,Units Sold,2974.68
+2014-05,Government,Canada,Carretera,COGS,8248.89
+2014-05,Government,Canada,Carretera,Discounts,518.96
+2014-05,Government,Canada,Carretera,Gross Sales,16590.11
+2014-05,Government,Canada,Carretera,Units Sold,829.51
+2014-05,Government,Canada,Montana,COGS,48529.65
+2014-05,Government,Canada,Montana,Discounts,9331.42
+2014-05,Government,Canada,Montana,Gross Sales,64719.43
+2014-05,Government,Canada,Montana,Units Sold,184.91
+2014-05,Government,Canada,Paseo,COGS,1339.47
+2014-05,Government,Canada,Paseo,Discounts,143.89
+2014-05,Government,Canada,Paseo,Gross Sales,1850.53
+2014-05,Government,Canada,Paseo,Units Sold,264.36
+2014-05,Government,France,Carretera,COGS,14582.92
+2014-05,Government,France,Carretera,Discounts,1422.95
+2014-05,Government,France,Carretera,Gross Sales,29251.88
+2014-05,Government,France,Carretera,Units Sold,1462.59
+2014-05,Government,France,Montana,COGS,439250.56
+2014-05,Government,France,Montana,Discounts,53010.46
+2014-05,Government,France,Montana,Gross Sales,590347.1
+2014-05,Government,France,Montana,Units Sold,1686.71
+2014-05,Government,France,Paseo,COGS,4892.67
+2014-05,Government,France,Paseo,Discounts,68.64
+2014-05,Government,France,Paseo,Gross Sales,6958.54
+2014-05,Government,France,Paseo,Units Sold,994.08
+2014-05,Government,Germany,Carretera,COGS,6220.48
+2014-05,Government,Germany,Carretera,Discounts,1100.39
+2014-05,Government,Germany,Carretera,Gross Sales,12658.87
+2014-05,Government,Germany,Carretera,Units Sold,632.94
+2014-05,Government,Germany,Montana,COGS,378686.05
+2014-05,Government,Germany,Montana,Discounts,29723.65
+2014-05,Government,Germany,Montana,Gross Sales,502046.72
+2014-05,Government,Germany,Montana,Units Sold,1434.42
+2014-05,Government,Germany,Paseo,COGS,5483.37
+2014-05,Government,Germany,Paseo,Discounts,600.06
+2014-05,Government,Germany,Paseo,Gross Sales,7609.01
+2014-05,Government,Germany,Paseo,Units Sold,1087.0
+2014-05,Government,Mexico,Amarilla,COGS,20052.24
+2014-05,Government,Mexico,Amarilla,Discounts,3894.16
+2014-05,Government,Mexico,Amarilla,Gross Sales,39742.59
+2014-05,Government,Mexico,Amarilla,Units Sold,1987.13
+2014-05,Government,Mexico,Paseo,COGS,763185.36
+2014-05,Government,Mexico,Paseo,Discounts,151792.17
+2014-05,Government,Mexico,Paseo,Gross Sales,1021626.35
+2014-05,Government,Mexico,Paseo,Units Sold,2918.93
+2014-05,Government,Mexico,Velo,COGS,1779.63
+2014-05,Government,Mexico,Velo,Discounts,25.77
+2014-05,Government,Mexico,Velo,Gross Sales,2489.19
+2014-05,Government,Mexico,Velo,Units Sold,355.6
+2014-05,Government,United States of America,Carretera,COGS,18379.44
+2014-05,Government,United States of America,Carretera,Discounts,5105.89
+2014-05,Government,United States of America,Carretera,Gross Sales,36253.93
+2014-05,Government,United States of America,Carretera,Units Sold,1812.7
+2014-05,Government,United States of America,Montana,COGS,619556.18
+2014-05,Government,United States of America,Montana,Discounts,87941.69
+2014-05,Government,United States of America,Montana,Gross Sales,818706.34
+2014-05,Government,United States of America,Montana,Units Sold,2339.16
+2014-05,Government,United States of America,Paseo,COGS,11521.05
+2014-05,Government,United States of America,Paseo,Discounts,796.09
+2014-05,Government,United States of America,Paseo,Gross Sales,15840.78
+2014-05,Government,United States of America,Paseo,Units Sold,2262.97
+2014-05,Midmarket,Canada,Velo,COGS,12165.79
+2014-05,Midmarket,Canada,Velo,Discounts,1268.85
+2014-05,Midmarket,Canada,Velo,Gross Sales,18285.54
+2014-05,Midmarket,Canada,Velo,Units Sold,1219.04
+2014-05,Midmarket,France,Velo,COGS,27191.64
+2014-05,Midmarket,France,Velo,Discounts,5953.72
+2014-05,Midmarket,France,Velo,Gross Sales,39686.56
+2014-05,Midmarket,France,Velo,Units Sold,2645.77
+2014-05,Midmarket,Germany,Velo,COGS,15549.69
+2014-05,Midmarket,Germany,Velo,Discounts,1403.83
+2014-05,Midmarket,Germany,Velo,Gross Sales,23218.45
+2014-05,Midmarket,Germany,Velo,Units Sold,1547.9
+2014-05,Midmarket,Mexico,Velo,COGS,2446.05
+2014-05,Midmarket,Mexico,Velo,Discounts,330.35
+2014-05,Midmarket,Mexico,Velo,Gross Sales,3623.24
+2014-05,Midmarket,Mexico,Velo,Units Sold,241.55
+2014-05,Midmarket,United States of America,Velo,COGS,7225.39
+2014-05,Midmarket,United States of America,Velo,Discounts,1144.87
+2014-05,Midmarket,United States of America,Velo,Gross Sales,10777.28
+2014-05,Midmarket,United States of America,Velo,Units Sold,718.49
+2014-05,Small Business,Canada,Paseo,COGS,418536.59
+2014-05,Small Business,Canada,Paseo,Discounts,34097.06
+2014-05,Small Business,Canada,Paseo,Gross Sales,499774.96
+2014-05,Small Business,Canada,Paseo,Units Sold,1665.92
+2014-05,Small Business,France,Paseo,COGS,218118.24
+2014-05,Small Business,France,Paseo,Discounts,5449.94
+2014-05,Small Business,France,Paseo,Gross Sales,265650.95
+2014-05,Small Business,France,Paseo,Units Sold,885.5
+2014-05,Small Business,Germany,Paseo,COGS,466557.95
+2014-05,Small Business,Germany,Paseo,Discounts,11111.32
+2014-05,Small Business,Germany,Paseo,Gross Sales,552124.88
+2014-05,Small Business,Germany,Paseo,Units Sold,1840.42
+2014-05,Small Business,Mexico,Paseo,COGS,145875.89
+2014-05,Small Business,Mexico,Paseo,Discounts,15781.95
+2014-05,Small Business,Mexico,Paseo,Gross Sales,165625.97
+2014-05,Small Business,Mexico,Paseo,Units Sold,552.09
+2014-05,Small Business,United States of America,Paseo,COGS,683468.93
+2014-05,Small Business,United States of America,Paseo,Discounts,33818.53
+2014-05,Small Business,United States of America,Paseo,Gross Sales,826357.01
+2014-05,Small Business,United States of America,Paseo,Units Sold,2754.52
+2014-06,Channel Partners,Canada,Montana,COGS,7908.16
+2014-06,Channel Partners,Canada,Montana,Discounts,0.0
+2014-06,Channel Partners,Canada,Montana,Gross Sales,31587.78
+2014-06,Channel Partners,Canada,Montana,Units Sold,2632.32
+2014-06,Channel Partners,Canada,Paseo,COGS,7904.12
+2014-06,Channel Partners,Canada,Paseo,Discounts,0.0
+2014-06,Channel Partners,Canada,Paseo,Gross Sales,31901.15
+2014-06,Channel Partners,Canada,Paseo,Units Sold,2658.43
+2014-06,Channel Partners,France,Montana,COGS,5481.53
+2014-06,Channel Partners,France,Montana,Discounts,664.09
+2014-06,Channel Partners,France,Montana,Gross Sales,22142.25
+2014-06,Channel Partners,France,Montana,Units Sold,1845.19
+2014-06,Channel Partners,France,Paseo,COGS,5732.38
+2014-06,Channel Partners,France,Paseo,Discounts,632.74
+2014-06,Channel Partners,France,Paseo,Gross Sales,22242.46
+2014-06,Channel Partners,France,Paseo,Units Sold,1853.54
+2014-06,Channel Partners,Germany,Montana,COGS,4686.73
+2014-06,Channel Partners,Germany,Montana,Discounts,0.0
+2014-06,Channel Partners,Germany,Montana,Gross Sales,19002.68
+2014-06,Channel Partners,Germany,Montana,Units Sold,1583.56
+2014-06,Channel Partners,Germany,Velo,COGS,4182.99
+2014-06,Channel Partners,Germany,Velo,Discounts,0.0
+2014-06,Channel Partners,Germany,Velo,Gross Sales,16892.11
+2014-06,Channel Partners,Germany,Velo,Units Sold,1407.68
+2014-06,Channel Partners,Mexico,Montana,COGS,1628.6
+2014-06,Channel Partners,Mexico,Montana,Discounts,862.4
+2014-06,Channel Partners,Mexico,Montana,Gross Sales,6728.0
+2014-06,Channel Partners,Mexico,Montana,Units Sold,560.67
+2014-06,Channel Partners,Mexico,Velo,COGS,1764.62
+2014-06,Channel Partners,Mexico,Velo,Discounts,900.73
+2014-06,Channel Partners,Mexico,Velo,Gross Sales,7167.07
+2014-06,Channel Partners,Mexico,Velo,Units Sold,597.26
+2014-06,Channel Partners,United States of America,Montana,COGS,3520.57
+2014-06,Channel Partners,United States of America,Montana,Discounts,293.62
+2014-06,Channel Partners,United States of America,Montana,Gross Sales,14580.48
+2014-06,Channel Partners,United States of America,Montana,Units Sold,1215.04
+2014-06,Channel Partners,United States of America,Paseo,COGS,3409.35
+2014-06,Channel Partners,United States of America,Paseo,Discounts,265.12
+2014-06,Channel Partners,United States of America,Paseo,Gross Sales,13467.22
+2014-06,Channel Partners,United States of America,Paseo,Units Sold,1122.27
+2014-06,Enterprise,Canada,Paseo,COGS,201408.15
+2014-06,Enterprise,Canada,Paseo,Discounts,25463.01
+2014-06,Enterprise,Canada,Paseo,Gross Sales,198675.53
+2014-06,Enterprise,Canada,Paseo,Units Sold,1589.4
+2014-06,Enterprise,Canada,VTT,COGS,197315.6
+2014-06,Enterprise,Canada,VTT,Discounts,27514.24
+2014-06,Enterprise,Canada,VTT,Gross Sales,207055.54
+2014-06,Enterprise,Canada,VTT,Units Sold,1656.44
+2014-06,Enterprise,France,Paseo,COGS,99318.98
+2014-06,Enterprise,France,Paseo,Discounts,1032.95
+2014-06,Enterprise,France,Paseo,Gross Sales,107024.96
+2014-06,Enterprise,France,Paseo,Units Sold,856.2
+2014-06,Enterprise,France,VTT,COGS,93946.99
+2014-06,Enterprise,France,VTT,Discounts,935.2
+2014-06,Enterprise,France,VTT,Gross Sales,96131.09
+2014-06,Enterprise,France,VTT,Units Sold,769.05
+2014-06,Enterprise,Germany,Paseo,COGS,185535.95
+2014-06,Enterprise,Germany,Paseo,Discounts,5910.73
+2014-06,Enterprise,Germany,Paseo,Gross Sales,196117.88
+2014-06,Enterprise,Germany,Paseo,Units Sold,1568.94
+2014-06,Enterprise,Germany,VTT,COGS,207909.85
+2014-06,Enterprise,Germany,VTT,Discounts,6516.78
+2014-06,Enterprise,Germany,VTT,Gross Sales,211087.25
+2014-06,Enterprise,Germany,VTT,Units Sold,1688.7
+2014-06,Enterprise,Mexico,Paseo,COGS,74325.75
+2014-06,Enterprise,Mexico,Paseo,Discounts,1615.08
+2014-06,Enterprise,Mexico,Paseo,Gross Sales,77861.85
+2014-06,Enterprise,Mexico,Paseo,Units Sold,622.89
+2014-06,Enterprise,Mexico,VTT,COGS,81727.33
+2014-06,Enterprise,Mexico,VTT,Discounts,1690.04
+2014-06,Enterprise,Mexico,VTT,Gross Sales,86222.16
+2014-06,Enterprise,Mexico,VTT,Units Sold,689.78
+2014-06,Enterprise,United States of America,Paseo,COGS,83459.78
+2014-06,Enterprise,United States of America,Paseo,Discounts,897.01
+2014-06,Enterprise,United States of America,Paseo,Gross Sales,87247.8
+2014-06,Enterprise,United States of America,Paseo,Units Sold,697.98
+2014-06,Enterprise,United States of America,VTT,COGS,88925.92
+2014-06,Enterprise,United States of America,VTT,Discounts,891.02
+2014-06,Enterprise,United States of America,VTT,Gross Sales,91248.25
+2014-06,Enterprise,United States of America,VTT,Units Sold,729.99
+2014-06,Government,Canada,Amarilla,COGS,12574.36
+2014-06,Government,Canada,Amarilla,Discounts,1764.28
+2014-06,Government,Canada,Amarilla,Gross Sales,21891.51
+2014-06,Government,Canada,Amarilla,Units Sold,1825.2
+2014-06,Government,Canada,Montana,COGS,6746.13
+2014-06,Government,Canada,Montana,Discounts,1053.13
+2014-06,Government,Canada,Montana,Gross Sales,13627.65
+2014-06,Government,Canada,Montana,Units Sold,681.38
+2014-06,Government,Canada,Paseo,COGS,655315.64
+2014-06,Government,Canada,Paseo,Discounts,119726.85
+2014-06,Government,Canada,Paseo,Gross Sales,885677.68
+2014-06,Government,Canada,Paseo,Units Sold,2530.51
+2014-06,Government,Canada,Velo,COGS,679919.7
+2014-06,Government,Canada,Velo,Discounts,119253.93
+2014-06,Government,Canada,Velo,Gross Sales,939475.16
+2014-06,Government,Canada,Velo,Units Sold,3808.88
+2014-06,Government,France,Amarilla,COGS,26159.27
+2014-06,Government,France,Amarilla,Discounts,1194.95
+2014-06,Government,France,Amarilla,Gross Sales,48191.35
+2014-06,Government,France,Amarilla,Units Sold,3214.49
+2014-06,Government,France,Montana,COGS,18216.62
+2014-06,Government,France,Montana,Discounts,0.0
+2014-06,Government,France,Montana,Gross Sales,37783.42
+2014-06,Government,France,Montana,Units Sold,1889.17
+2014-06,Government,France,Paseo,COGS,386587.77
+2014-06,Government,France,Paseo,Discounts,30543.97
+2014-06,Government,France,Paseo,Gross Sales,525070.51
+2014-06,Government,France,Paseo,Units Sold,1500.2
+2014-06,Government,France,Velo,COGS,410172.74
+2014-06,Government,France,Velo,Discounts,32729.02
+2014-06,Government,France,Velo,Gross Sales,544222.88
+2014-06,Government,France,Velo,Units Sold,2748.07
+2014-06,Government,Germany,Amarilla,COGS,13218.93
+2014-06,Government,Germany,Amarilla,Discounts,2151.55
+2014-06,Government,Germany,Amarilla,Gross Sales,26278.58
+2014-06,Government,Germany,Amarilla,Units Sold,1313.93
+2014-06,Government,Germany,Paseo,COGS,286831.73
+2014-06,Government,Germany,Paseo,Discounts,2322.33
+2014-06,Government,Germany,Paseo,Gross Sales,390813.89
+2014-06,Government,Germany,Paseo,Units Sold,2443.23
+2014-06,Government,Germany,VTT,COGS,12063.76
+2014-06,Government,Germany,VTT,Discounts,1350.03
+2014-06,Government,Germany,VTT,Gross Sales,16911.26
+2014-06,Government,Germany,VTT,Units Sold,2415.89
+2014-06,Government,Germany,Velo,COGS,310336.64
+2014-06,Government,Germany,Velo,Discounts,1454.94
+2014-06,Government,Germany,Velo,Gross Sales,408909.35
+2014-06,Government,Germany,Velo,Units Sold,3711.04
+2014-06,Government,Mexico,Amarilla,COGS,10414.11
+2014-06,Government,Mexico,Amarilla,Discounts,1882.37
+2014-06,Government,Mexico,Amarilla,Gross Sales,20450.02
+2014-06,Government,Mexico,Amarilla,Units Sold,1022.5
+2014-06,Government,Mexico,Carretera,COGS,228195.63
+2014-06,Government,Mexico,Carretera,Discounts,36680.83
+2014-06,Government,Mexico,Carretera,Gross Sales,304469.69
+2014-06,Government,Mexico,Carretera,Units Sold,869.91
+2014-06,Government,Mexico,Paseo,COGS,252865.34
+2014-06,Government,Mexico,Paseo,Discounts,38737.25
+2014-06,Government,Mexico,Paseo,Gross Sales,341194.93
+2014-06,Government,Mexico,Paseo,Units Sold,1984.1
+2014-06,Government,Mexico,VTT,COGS,7855.63
+2014-06,Government,Mexico,VTT,Discounts,634.26
+2014-06,Government,Mexico,VTT,Gross Sales,10835.26
+2014-06,Government,Mexico,VTT,Units Sold,1547.89
+2014-06,Government,Mexico,Velo,COGS,7266.95
+2014-06,Government,Mexico,Velo,Discounts,620.18
+2014-06,Government,Mexico,Velo,Gross Sales,10263.95
+2014-06,Government,Mexico,Velo,Units Sold,1466.28
+2014-06,Government,United States of America,Amarilla,COGS,26193.91
+2014-06,Government,United States of America,Amarilla,Discounts,3752.28
+2014-06,Government,United States of America,Amarilla,Gross Sales,45253.31
+2014-06,Government,United States of America,Amarilla,Units Sold,4121.99
+2014-06,Government,United States of America,Montana,COGS,13210.66
+2014-06,Government,United States of America,Montana,Discounts,2197.7
+2014-06,Government,United States of America,Montana,Gross Sales,26201.03
+2014-06,Government,United States of America,Montana,Units Sold,1310.05
+2014-06,Government,United States of America,Paseo,COGS,153077.3
+2014-06,Government,United States of America,Paseo,Discounts,10430.31
+2014-06,Government,United States of America,Paseo,Gross Sales,203839.3
+2014-06,Government,United States of America,Paseo,Units Sold,582.4
+2014-06,Government,United States of America,Velo,COGS,171938.83
+2014-06,Government,United States of America,Velo,Discounts,12067.94
+2014-06,Government,United States of America,Velo,Gross Sales,227285.84
+2014-06,Government,United States of America,Velo,Units Sold,3451.85
+2014-06,Midmarket,Canada,Carretera,COGS,28007.61
+2014-06,Midmarket,Canada,Carretera,Discounts,2626.5
+2014-06,Midmarket,Canada,Carretera,Gross Sales,42813.16
+2014-06,Midmarket,Canada,Carretera,Units Sold,2854.21
+2014-06,Midmarket,Canada,VTT,COGS,29059.32
+2014-06,Midmarket,Canada,VTT,Discounts,2610.35
+2014-06,Midmarket,Canada,VTT,Gross Sales,44393.78
+2014-06,Midmarket,Canada,VTT,Units Sold,2959.59
+2014-06,Midmarket,France,Carretera,COGS,21455.14
+2014-06,Midmarket,France,Carretera,Discounts,0.0
+2014-06,Midmarket,France,Carretera,Gross Sales,31889.39
+2014-06,Midmarket,France,Carretera,Units Sold,2125.96
+2014-06,Midmarket,France,VTT,COGS,20203.83
+2014-06,Midmarket,France,VTT,Discounts,0.0
+2014-06,Midmarket,France,VTT,Gross Sales,30348.95
+2014-06,Midmarket,France,VTT,Units Sold,2023.26
+2014-06,Midmarket,Germany,Carretera,COGS,7914.47
+2014-06,Midmarket,Germany,Carretera,Discounts,0.0
+2014-06,Midmarket,Germany,Carretera,Gross Sales,12337.0
+2014-06,Midmarket,Germany,Carretera,Units Sold,822.47
+2014-06,Midmarket,Germany,VTT,COGS,8507.08
+2014-06,Midmarket,Germany,VTT,Discounts,0.0
+2014-06,Midmarket,Germany,VTT,Gross Sales,12665.61
+2014-06,Midmarket,Germany,VTT,Units Sold,844.37
+2014-06,Midmarket,Mexico,Carretera,COGS,22567.81
+2014-06,Midmarket,Mexico,Carretera,Discounts,0.0
+2014-06,Midmarket,Mexico,Carretera,Gross Sales,35154.11
+2014-06,Midmarket,Mexico,Carretera,Units Sold,2343.61
+2014-06,Midmarket,Mexico,Montana,COGS,24083.64
+2014-06,Midmarket,Mexico,Montana,Discounts,0.0
+2014-06,Midmarket,Mexico,Montana,Gross Sales,36821.57
+2014-06,Midmarket,Mexico,Montana,Units Sold,2454.77
+2014-06,Midmarket,United States of America,Carretera,COGS,25139.55
+2014-06,Midmarket,United States of America,Carretera,Discounts,4851.38
+2014-06,Midmarket,United States of America,Carretera,Gross Sales,36716.74
+2014-06,Midmarket,United States of America,Carretera,Units Sold,2447.78
+2014-06,Midmarket,United States of America,VTT,COGS,25869.38
+2014-06,Midmarket,United States of America,VTT,Discounts,4902.33
+2014-06,Midmarket,United States of America,VTT,Gross Sales,37437.69
+2014-06,Midmarket,United States of America,VTT,Units Sold,2495.85
+2014-06,Small Business,Canada,Carretera,COGS,258714.36
+2014-06,Small Business,Canada,Carretera,Discounts,29115.62
+2014-06,Small Business,Canada,Carretera,Gross Sales,318193.52
+2014-06,Small Business,Canada,Carretera,Units Sold,1060.65
+2014-06,Small Business,Canada,Paseo,COGS,266952.75
+2014-06,Small Business,Canada,Paseo,Discounts,28984.93
+2014-06,Small Business,Canada,Paseo,Gross Sales,322467.66
+2014-06,Small Business,Canada,Paseo,Units Sold,1074.89
+2014-06,Small Business,France,Carretera,COGS,118184.99
+2014-06,Small Business,France,Carretera,Discounts,10041.95
+2014-06,Small Business,France,Carretera,Gross Sales,141701.2
+2014-06,Small Business,France,Carretera,Units Sold,472.34
+2014-06,Small Business,France,Paseo,COGS,119102.14
+2014-06,Small Business,France,Paseo,Discounts,9449.99
+2014-06,Small Business,France,Paseo,Gross Sales,138006.16
+2014-06,Small Business,France,Paseo,Units Sold,460.02
+2014-06,Small Business,Germany,Carretera,COGS,170662.14
+2014-06,Small Business,Germany,Carretera,Discounts,6273.82
+2014-06,Small Business,Germany,Carretera,Gross Sales,206833.4
+2014-06,Small Business,Germany,Carretera,Units Sold,689.44
+2014-06,Small Business,Germany,Paseo,COGS,167489.79
+2014-06,Small Business,Germany,Paseo,Discounts,6209.77
+2014-06,Small Business,Germany,Paseo,Gross Sales,202923.17
+2014-06,Small Business,Germany,Paseo,Units Sold,676.41
+2014-06,Small Business,Mexico,Amarilla,COGS,623156.35
+2014-06,Small Business,Mexico,Amarilla,Discounts,56859.93
+2014-06,Small Business,Mexico,Amarilla,Gross Sales,725321.15
+2014-06,Small Business,Mexico,Amarilla,Units Sold,2417.74
+2014-06,Small Business,Mexico,Paseo,COGS,618444.9
+2014-06,Small Business,Mexico,Paseo,Discounts,59912.12
+2014-06,Small Business,Mexico,Paseo,Gross Sales,747738.77
+2014-06,Small Business,Mexico,Paseo,Units Sold,2492.46
+2014-06,Small Business,United States of America,Carretera,COGS,257270.39
+2014-06,Small Business,United States of America,Carretera,Discounts,14931.77
+2014-06,Small Business,United States of America,Carretera,Gross Sales,304328.74
+2014-06,Small Business,United States of America,Carretera,Units Sold,1014.43
+2014-06,Small Business,United States of America,Paseo,COGS,231858.54
+2014-06,Small Business,United States of America,Paseo,Discounts,14108.59
+2014-06,Small Business,United States of America,Paseo,Gross Sales,286700.19
+2014-06,Small Business,United States of America,Paseo,Units Sold,955.67
+2014-07,Channel Partners,Canada,Paseo,COGS,12054.21
+2014-07,Channel Partners,Canada,Paseo,Discounts,5142.47
+2014-07,Channel Partners,Canada,Paseo,Gross Sales,48382.55
+2014-07,Channel Partners,Canada,Paseo,Units Sold,4031.88
+2014-07,Channel Partners,France,Paseo,COGS,6485.9
+2014-07,Channel Partners,France,Paseo,Discounts,3063.86
+2014-07,Channel Partners,France,Paseo,Gross Sales,26834.26
+2014-07,Channel Partners,France,Paseo,Units Sold,2236.19
+2014-07,Channel Partners,Germany,Paseo,COGS,1086.93
+2014-07,Channel Partners,Germany,Paseo,Discounts,0.0
+2014-07,Channel Partners,Germany,Paseo,Gross Sales,4441.45
+2014-07,Channel Partners,Germany,Paseo,Units Sold,370.12
+2014-07,Channel Partners,Mexico,Paseo,COGS,1795.67
+2014-07,Channel Partners,Mexico,Paseo,Discounts,933.14
+2014-07,Channel Partners,Mexico,Paseo,Gross Sales,7064.11
+2014-07,Channel Partners,Mexico,Paseo,Units Sold,588.68
+2014-07,Channel Partners,United States of America,Paseo,COGS,4058.68
+2014-07,Channel Partners,United States of America,Paseo,Discounts,516.37
+2014-07,Channel Partners,United States of America,Paseo,Gross Sales,16250.92
+2014-07,Channel Partners,United States of America,Paseo,Units Sold,1354.24
+2014-07,Enterprise,Canada,Montana,COGS,341771.34
+2014-07,Enterprise,Canada,Montana,Discounts,0.0
+2014-07,Enterprise,Canada,Montana,Gross Sales,358298.51
+2014-07,Enterprise,Canada,Montana,Units Sold,2866.39
+2014-07,Enterprise,France,Paseo,COGS,340957.63
+2014-07,Enterprise,France,Paseo,Discounts,15734.32
+2014-07,Enterprise,France,Paseo,Gross Sales,360563.64
+2014-07,Enterprise,France,Paseo,Units Sold,2884.51
+2014-07,Enterprise,Germany,Paseo,COGS,423365.91
+2014-07,Enterprise,Germany,Paseo,Discounts,30795.62
+2014-07,Enterprise,Germany,Paseo,Gross Sales,442961.0
+2014-07,Enterprise,Germany,Paseo,Units Sold,3543.69
+2014-07,Enterprise,Mexico,Paseo,COGS,219762.29
+2014-07,Enterprise,Mexico,Paseo,Discounts,2292.91
+2014-07,Enterprise,Mexico,Paseo,Gross Sales,227548.69
+2014-07,Enterprise,Mexico,Paseo,Units Sold,1820.39
+2014-07,Enterprise,United States of America,Montana,COGS,442019.19
+2014-07,Enterprise,United States of America,Montana,Discounts,22308.56
+2014-07,Enterprise,United States of America,Montana,Gross Sales,451559.75
+2014-07,Enterprise,United States of America,Montana,Units Sold,3612.48
+2014-07,Government,Canada,Carretera,COGS,3862.3
+2014-07,Government,Canada,Carretera,Discounts,519.35
+2014-07,Government,Canada,Carretera,Gross Sales,5706.84
+2014-07,Government,Canada,Carretera,Units Sold,815.26
+2014-07,Government,Canada,Paseo,COGS,540377.84
+2014-07,Government,Canada,Paseo,Discounts,83410.96
+2014-07,Government,Canada,Paseo,Gross Sales,739737.4
+2014-07,Government,Canada,Paseo,Units Sold,2113.54
+2014-07,Government,Canada,VTT,COGS,8982.09
+2014-07,Government,Canada,VTT,Discounts,2676.9
+2014-07,Government,Canada,VTT,Gross Sales,17907.2
+2014-07,Government,Canada,VTT,Units Sold,895.36
+2014-07,Government,France,Amarilla,COGS,18041.0
+2014-07,Government,France,Amarilla,Discounts,3198.76
+2014-07,Government,France,Amarilla,Gross Sales,25307.45
+2014-07,Government,France,Amarilla,Units Sold,3615.35
+2014-07,Government,France,Montana,COGS,13864.72
+2014-07,Government,France,Montana,Discounts,277.05
+2014-07,Government,France,Montana,Gross Sales,27507.52
+2014-07,Government,France,Montana,Units Sold,1375.38
+2014-07,Government,France,Velo,COGS,172566.04
+2014-07,Government,France,Velo,Discounts,23293.9
+2014-07,Government,France,Velo,Gross Sales,231064.06
+2014-07,Government,France,Velo,Units Sold,660.18
+2014-07,Government,Germany,Amarilla,COGS,8146.68
+2014-07,Government,Germany,Amarilla,Discounts,0.0
+2014-07,Government,Germany,Amarilla,Gross Sales,11475.32
+2014-07,Government,Germany,Amarilla,Units Sold,1639.33
+2014-07,Government,Germany,Montana,COGS,6580.6
+2014-07,Government,Germany,Montana,Discounts,1077.47
+2014-07,Government,Germany,Montana,Gross Sales,13301.35
+2014-07,Government,Germany,Montana,Units Sold,665.07
+2014-07,Government,Germany,Velo,COGS,328000.22
+2014-07,Government,Germany,Velo,Discounts,39774.0
+2014-07,Government,Germany,Velo,Gross Sales,443717.42
+2014-07,Government,Germany,Velo,Units Sold,1267.76
+2014-07,Government,Mexico,Amarilla,COGS,8992.2
+2014-07,Government,Mexico,Amarilla,Discounts,604.09
+2014-07,Government,Mexico,Amarilla,Gross Sales,12306.34
+2014-07,Government,Mexico,Amarilla,Units Sold,1758.05
+2014-07,Government,Mexico,Montana,COGS,24274.16
+2014-07,Government,Mexico,Montana,Discounts,6255.85
+2014-07,Government,Mexico,Montana,Gross Sales,49269.63
+2014-07,Government,Mexico,Montana,Units Sold,2463.48
+2014-07,Government,Mexico,Velo,COGS,360479.74
+2014-07,Government,Mexico,Velo,Discounts,62977.86
+2014-07,Government,Mexico,Velo,Gross Sales,485871.51
+2014-07,Government,Mexico,Velo,Units Sold,1388.2
+2014-07,Government,United States of America,Carretera,COGS,11625.72
+2014-07,Government,United States of America,Carretera,Discounts,160.88
+2014-07,Government,United States of America,Carretera,Gross Sales,16216.55
+2014-07,Government,United States of America,Carretera,Units Sold,2316.65
+2014-07,Government,United States of America,Paseo,COGS,904934.82
+2014-07,Government,United States of America,Paseo,Discounts,45187.25
+2014-07,Government,United States of America,Paseo,Gross Sales,1181316.14
+2014-07,Government,United States of America,Paseo,Units Sold,3375.19
+2014-07,Government,United States of America,VTT,COGS,4557.93
+2014-07,Government,United States of America,VTT,Discounts,718.31
+2014-07,Government,United States of America,VTT,Gross Sales,9170.95
+2014-07,Government,United States of America,VTT,Units Sold,458.55
+2014-07,Midmarket,Canada,Amarilla,COGS,16989.4
+2014-07,Midmarket,Canada,Amarilla,Discounts,2246.93
+2014-07,Midmarket,Canada,Amarilla,Gross Sales,25004.6
+2014-07,Midmarket,Canada,Amarilla,Units Sold,1666.97
+2014-07,Midmarket,France,VTT,COGS,40096.91
+2014-07,Midmarket,France,VTT,Discounts,7159.4
+2014-07,Midmarket,France,VTT,Gross Sales,58699.04
+2014-07,Midmarket,France,VTT,Units Sold,3913.27
+2014-07,Midmarket,Germany,VTT,COGS,5116.03
+2014-07,Midmarket,Germany,VTT,Discounts,1171.76
+2014-07,Midmarket,Germany,VTT,Gross Sales,7683.85
+2014-07,Midmarket,Germany,VTT,Units Sold,512.26
+2014-07,Midmarket,Mexico,VTT,COGS,6507.88
+2014-07,Midmarket,Mexico,VTT,Discounts,1000.21
+2014-07,Midmarket,Mexico,VTT,Gross Sales,9803.14
+2014-07,Midmarket,Mexico,VTT,Units Sold,653.54
+2014-07,Midmarket,United States of America,Amarilla,COGS,33370.95
+2014-07,Midmarket,United States of America,Amarilla,Discounts,5435.46
+2014-07,Midmarket,United States of America,Amarilla,Gross Sales,50388.04
+2014-07,Midmarket,United States of America,Amarilla,Units Sold,3359.2
+2014-07,Small Business,Canada,Velo,COGS,978868.53
+2014-07,Small Business,Canada,Velo,Discounts,107346.76
+2014-07,Small Business,Canada,Velo,Gross Sales,1180683.16
+2014-07,Small Business,Canada,Velo,Units Sold,3935.61
+2014-07,Small Business,France,Velo,COGS,448309.77
+2014-07,Small Business,France,Velo,Discounts,36052.35
+2014-07,Small Business,France,Velo,Gross Sales,528934.98
+2014-07,Small Business,France,Velo,Units Sold,1763.12
+2014-07,Small Business,Germany,Carretera,COGS,716202.26
+2014-07,Small Business,Germany,Carretera,Discounts,92354.59
+2014-07,Small Business,Germany,Carretera,Gross Sales,855490.18
+2014-07,Small Business,Germany,Carretera,Units Sold,2851.63
+2014-07,Small Business,Mexico,Carretera,COGS,208611.09
+2014-07,Small Business,Mexico,Carretera,Discounts,33922.15
+2014-07,Small Business,Mexico,Carretera,Gross Sales,249160.81
+2014-07,Small Business,Mexico,Carretera,Units Sold,830.54
+2014-07,Small Business,United States of America,Velo,COGS,593819.63
+2014-07,Small Business,United States of America,Velo,Discounts,98419.92
+2014-07,Small Business,United States of America,Velo,Gross Sales,728989.07
+2014-07,Small Business,United States of America,Velo,Units Sold,2429.96
+2014-08,Channel Partners,Canada,Carretera,COGS,5410.88
+2014-08,Channel Partners,Canada,Carretera,Discounts,1594.26
+2014-08,Channel Partners,Canada,Carretera,Gross Sales,22070.58
+2014-08,Channel Partners,Canada,Carretera,Units Sold,1839.21
+2014-08,Channel Partners,France,Amarilla,COGS,8290.41
+2014-08,Channel Partners,France,Amarilla,Discounts,4543.75
+2014-08,Channel Partners,France,Amarilla,Gross Sales,31798.46
+2014-08,Channel Partners,France,Amarilla,Units Sold,2649.87
+2014-08,Channel Partners,Germany,Amarilla,COGS,7761.37
+2014-08,Channel Partners,Germany,Amarilla,Discounts,3206.92
+2014-08,Channel Partners,Germany,Amarilla,Gross Sales,31156.28
+2014-08,Channel Partners,Germany,Amarilla,Units Sold,2596.36
+2014-08,Channel Partners,Mexico,Amarilla,COGS,3425.32
+2014-08,Channel Partners,Mexico,Amarilla,Discounts,696.67
+2014-08,Channel Partners,Mexico,Amarilla,Gross Sales,13916.92
+2014-08,Channel Partners,Mexico,Amarilla,Units Sold,1159.74
+2014-08,Channel Partners,United States of America,Amarilla,COGS,6639.62
+2014-08,Channel Partners,United States of America,Amarilla,Discounts,0.0
+2014-08,Channel Partners,United States of America,Amarilla,Gross Sales,25819.48
+2014-08,Channel Partners,United States of America,Amarilla,Units Sold,2151.62
+2014-08,Enterprise,Canada,Velo,COGS,108801.53
+2014-08,Enterprise,Canada,Velo,Discounts,1067.45
+2014-08,Enterprise,Canada,Velo,Gross Sales,112699.73
+2014-08,Enterprise,Canada,Velo,Units Sold,901.6
+2014-08,Enterprise,France,Carretera,COGS,142571.63
+2014-08,Enterprise,France,Carretera,Discounts,22592.38
+2014-08,Enterprise,France,Carretera,Gross Sales,146814.48
+2014-08,Enterprise,France,Carretera,Units Sold,1174.52
+2014-08,Enterprise,Germany,Carretera,COGS,350699.75
+2014-08,Enterprise,Germany,Carretera,Discounts,55240.52
+2014-08,Enterprise,Germany,Carretera,Gross Sales,366323.64
+2014-08,Enterprise,Germany,Carretera,Units Sold,2930.59
+2014-08,Enterprise,Mexico,Carretera,COGS,187745.98
+2014-08,Enterprise,Mexico,Carretera,Discounts,16042.09
+2014-08,Enterprise,Mexico,Carretera,Gross Sales,196823.18
+2014-08,Enterprise,Mexico,Carretera,Units Sold,1574.59
+2014-08,Enterprise,United States of America,Velo,COGS,315048.55
+2014-08,Enterprise,United States of America,Velo,Discounts,0.0
+2014-08,Enterprise,United States of America,Velo,Gross Sales,329292.44
+2014-08,Enterprise,United States of America,Velo,Units Sold,2634.34
+2014-08,Government,Canada,Amarilla,COGS,138354.64
+2014-08,Government,Canada,Amarilla,Discounts,9293.59
+2014-08,Government,Canada,Amarilla,Gross Sales,191543.73
+2014-08,Government,Canada,Amarilla,Units Sold,547.27
+2014-08,Government,Canada,Montana,COGS,9808.85
+2014-08,Government,Canada,Montana,Discounts,131.38
+2014-08,Government,Canada,Montana,Gross Sales,13756.59
+2014-08,Government,Canada,Montana,Units Sold,1965.23
+2014-08,Government,Canada,Paseo,COGS,23876.67
+2014-08,Government,Canada,Paseo,Discounts,5110.4
+2014-08,Government,Canada,Paseo,Gross Sales,47472.28
+2014-08,Government,Canada,Paseo,Units Sold,2373.61
+2014-08,Government,France,Paseo,COGS,13007.54
+2014-08,Government,France,Paseo,Discounts,2321.57
+2014-08,Government,France,Paseo,Gross Sales,17560.64
+2014-08,Government,France,Paseo,Units Sold,2508.66
+2014-08,Government,France,VTT,COGS,107036.1
+2014-08,Government,France,VTT,Discounts,11745.4
+2014-08,Government,France,VTT,Gross Sales,143839.66
+2014-08,Government,France,VTT,Units Sold,410.97
+2014-08,Government,France,Velo,COGS,15469.4
+2014-08,Government,France,Velo,Discounts,1556.1
+2014-08,Government,France,Velo,Gross Sales,32453.87
+2014-08,Government,France,Velo,Units Sold,1622.69
+2014-08,Government,Germany,Paseo,COGS,7952.68
+2014-08,Government,Germany,Paseo,Discounts,866.11
+2014-08,Government,Germany,Paseo,Gross Sales,11154.72
+2014-08,Government,Germany,Paseo,Units Sold,1593.53
+2014-08,Government,Germany,VTT,COGS,114024.89
+2014-08,Government,Germany,VTT,Discounts,11389.16
+2014-08,Government,Germany,VTT,Gross Sales,145521.88
+2014-08,Government,Germany,VTT,Units Sold,415.78
+2014-08,Government,Germany,Velo,COGS,10634.01
+2014-08,Government,Germany,Velo,Discounts,1240.9
+2014-08,Government,Germany,Velo,Gross Sales,20905.78
+2014-08,Government,Germany,Velo,Units Sold,1045.29
+2014-08,Government,Mexico,Paseo,COGS,4250.25
+2014-08,Government,Mexico,Paseo,Discounts,0.0
+2014-08,Government,Mexico,Paseo,Gross Sales,6048.44
+2014-08,Government,Mexico,Paseo,Units Sold,864.06
+2014-08,Government,Mexico,VTT,COGS,452270.16
+2014-08,Government,Mexico,VTT,Discounts,17281.25
+2014-08,Government,Mexico,VTT,Gross Sales,601711.7
+2014-08,Government,Mexico,VTT,Units Sold,1719.18
+2014-08,Government,Mexico,Velo,COGS,6131.16
+2014-08,Government,Mexico,Velo,Discounts,849.81
+2014-08,Government,Mexico,Velo,Gross Sales,12447.04
+2014-08,Government,Mexico,Velo,Units Sold,622.35
+2014-08,Government,United States of America,Paseo,COGS,3330.65
+2014-08,Government,United States of America,Paseo,Discounts,384.41
+2014-08,Government,United States of America,Paseo,Gross Sales,4792.68
+2014-08,Government,United States of America,Paseo,Units Sold,684.67
+2014-08,Government,United States of America,VTT,COGS,728965.75
+2014-08,Government,United States of America,VTT,Discounts,95318.57
+2014-08,Government,United States of America,VTT,Gross Sales,988185.12
+2014-08,Government,United States of America,VTT,Units Sold,2823.39
+2014-08,Government,United States of America,Velo,COGS,28173.97
+2014-08,Government,United States of America,Velo,Discounts,2802.48
+2014-08,Government,United States of America,Velo,Gross Sales,56244.98
+2014-08,Government,United States of America,Velo,Units Sold,2812.25
+2014-08,Midmarket,Canada,Paseo,COGS,25683.92
+2014-08,Midmarket,Canada,Paseo,Discounts,6194.33
+2014-08,Midmarket,Canada,Paseo,Gross Sales,40024.52
+2014-08,Midmarket,Canada,Paseo,Units Sold,2668.3
+2014-08,Midmarket,France,Paseo,COGS,19828.76
+2014-08,Midmarket,France,Paseo,Discounts,2047.77
+2014-08,Midmarket,France,Paseo,Gross Sales,30442.81
+2014-08,Midmarket,France,Paseo,Units Sold,2029.52
+2014-08,Midmarket,Germany,Paseo,COGS,16338.47
+2014-08,Midmarket,Germany,Paseo,Discounts,1461.05
+2014-08,Midmarket,Germany,Paseo,Gross Sales,24502.64
+2014-08,Midmarket,Germany,Paseo,Units Sold,1633.51
+2014-08,Midmarket,Mexico,Paseo,COGS,20167.67
+2014-08,Midmarket,Mexico,Paseo,Discounts,3458.2
+2014-08,Midmarket,Mexico,Paseo,Gross Sales,30500.49
+2014-08,Midmarket,Mexico,Paseo,Units Sold,2033.37
+2014-08,Midmarket,United States of America,Paseo,COGS,22720.05
+2014-08,Midmarket,United States of America,Paseo,Discounts,2003.33
+2014-08,Midmarket,United States of America,Paseo,Gross Sales,33813.08
+2014-08,Midmarket,United States of America,Paseo,Units Sold,2254.21
+2014-08,Small Business,Canada,VTT,COGS,465984.53
+2014-08,Small Business,Canada,VTT,Discounts,16897.23
+2014-08,Small Business,Canada,VTT,Gross Sales,573104.06
+2014-08,Small Business,Canada,VTT,Units Sold,1910.35
+2014-08,Small Business,France,Montana,COGS,402589.87
+2014-08,Small Business,France,Montana,Discounts,39434.44
+2014-08,Small Business,France,Montana,Gross Sales,476305.12
+2014-08,Small Business,France,Montana,Units Sold,1587.68
+2014-08,Small Business,Germany,Montana,COGS,447966.33
+2014-08,Small Business,Germany,Montana,Discounts,21821.49
+2014-08,Small Business,Germany,Montana,Gross Sales,550595.03
+2014-08,Small Business,Germany,Montana,Units Sold,1835.32
+2014-08,Small Business,Mexico,Montana,COGS,255284.66
+2014-08,Small Business,Mexico,Montana,Discounts,0.0
+2014-08,Small Business,Mexico,Montana,Gross Sales,296596.99
+2014-08,Small Business,Mexico,Montana,Units Sold,988.66
+2014-08,Small Business,United States of America,VTT,COGS,612334.4
+2014-08,Small Business,United States of America,VTT,Discounts,107898.6
+2014-08,Small Business,United States of America,VTT,Gross Sales,760912.11
+2014-08,Small Business,United States of America,VTT,Units Sold,2536.37
+2014-09,Channel Partners,Canada,Carretera,COGS,4158.46
+2014-09,Channel Partners,Canada,Carretera,Discounts,168.31
+2014-09,Channel Partners,Canada,Carretera,Gross Sales,17005.41
+2014-09,Channel Partners,Canada,Carretera,Units Sold,1417.12
+2014-09,Channel Partners,France,Carretera,COGS,7979.71
+2014-09,Channel Partners,France,Carretera,Discounts,321.1
+2014-09,Channel Partners,France,Carretera,Gross Sales,31654.61
+2014-09,Channel Partners,France,Carretera,Units Sold,2637.88
+2014-09,Channel Partners,Germany,Carretera,COGS,5310.07
+2014-09,Channel Partners,Germany,Carretera,Discounts,1867.83
+2014-09,Channel Partners,Germany,Carretera,Gross Sales,20556.09
+2014-09,Channel Partners,Germany,Carretera,Units Sold,1713.01
+2014-09,Channel Partners,Mexico,Carretera,COGS,1582.87
+2014-09,Channel Partners,Mexico,Carretera,Discounts,389.07
+2014-09,Channel Partners,Mexico,Carretera,Gross Sales,6291.84
+2014-09,Channel Partners,Mexico,Carretera,Units Sold,524.32
+2014-09,Channel Partners,United States of America,Carretera,COGS,6026.03
+2014-09,Channel Partners,United States of America,Carretera,Discounts,703.31
+2014-09,Channel Partners,United States of America,Carretera,Gross Sales,23835.78
+2014-09,Channel Partners,United States of America,Carretera,Units Sold,1986.32
+2014-09,Enterprise,Canada,Velo,COGS,63642.53
+2014-09,Enterprise,Canada,Velo,Discounts,5971.77
+2014-09,Enterprise,Canada,Velo,Gross Sales,66271.06
+2014-09,Enterprise,Canada,Velo,Units Sold,530.17
+2014-09,Enterprise,France,Velo,COGS,77590.15
+2014-09,Enterprise,France,Velo,Discounts,12354.7
+2014-09,Enterprise,France,Velo,Gross Sales,82516.98
+2014-09,Enterprise,France,Velo,Units Sold,660.14
+2014-09,Enterprise,Germany,Velo,COGS,243720.76
+2014-09,Enterprise,Germany,Velo,Discounts,18326.36
+2014-09,Enterprise,Germany,Velo,Gross Sales,256389.11
+2014-09,Enterprise,Germany,Velo,Units Sold,2051.11
+2014-09,Enterprise,Mexico,Velo,COGS,227293.42
+2014-09,Enterprise,Mexico,Velo,Discounts,21166.44
+2014-09,Enterprise,Mexico,Velo,Gross Sales,242645.26
+2014-09,Enterprise,Mexico,Velo,Units Sold,1941.16
+2014-09,Enterprise,United States of America,Velo,COGS,189548.86
+2014-09,Enterprise,United States of America,Velo,Discounts,20881.09
+2014-09,Enterprise,United States of America,Velo,Gross Sales,202628.8
+2014-09,Enterprise,United States of America,Velo,Units Sold,1621.03
+2014-09,Government,Canada,Amarilla,COGS,182501.5
+2014-09,Government,Canada,Amarilla,Discounts,24712.64
+2014-09,Government,Canada,Amarilla,Gross Sales,243716.83
+2014-09,Government,Canada,Amarilla,Units Sold,696.33
+2014-09,Government,Canada,Montana,COGS,1743.68
+2014-09,Government,Canada,Montana,Discounts,335.8
+2014-09,Government,Canada,Montana,Gross Sales,2497.25
+2014-09,Government,Canada,Montana,Units Sold,356.75
+2014-09,Government,Canada,Paseo,COGS,21585.41
+2014-09,Government,Canada,Paseo,Discounts,1778.06
+2014-09,Government,Canada,Paseo,Gross Sales,42896.67
+2014-09,Government,Canada,Paseo,Units Sold,2144.83
+2014-09,Government,France,Amarilla,COGS,771318.13
+2014-09,Government,France,Amarilla,Discounts,79626.44
+2014-09,Government,France,Amarilla,Gross Sales,1066069.54
+2014-09,Government,France,Amarilla,Units Sold,3045.91
+2014-09,Government,France,Montana,COGS,2904.17
+2014-09,Government,France,Montana,Discounts,124.9
+2014-09,Government,France,Montana,Gross Sales,4041.88
+2014-09,Government,France,Montana,Units Sold,577.41
+2014-09,Government,France,Paseo,COGS,15419.79
+2014-09,Government,France,Paseo,Discounts,2273.41
+2014-09,Government,France,Paseo,Gross Sales,31143.98
+2014-09,Government,France,Paseo,Units Sold,1557.2
+2014-09,Government,Germany,Amarilla,COGS,510708.59
+2014-09,Government,Germany,Amarilla,Discounts,26815.74
+2014-09,Government,Germany,Amarilla,Gross Sales,668680.79
+2014-09,Government,Germany,Amarilla,Units Sold,1910.52
+2014-09,Government,Germany,Montana,COGS,11388.72
+2014-09,Government,Germany,Montana,Discounts,0.0
+2014-09,Government,Germany,Montana,Gross Sales,15841.64
+2014-09,Government,Germany,Montana,Units Sold,2263.09
+2014-09,Government,Germany,Paseo,COGS,21197.56
+2014-09,Government,Germany,Paseo,Discounts,3126.69
+2014-09,Government,Germany,Paseo,Gross Sales,41372.57
+2014-09,Government,Germany,Paseo,Units Sold,2068.63
+2014-09,Government,Mexico,Amarilla,COGS,449886.11
+2014-09,Government,Mexico,Amarilla,Discounts,37176.87
+2014-09,Government,Mexico,Amarilla,Gross Sales,614908.99
+2014-09,Government,Mexico,Amarilla,Units Sold,1756.88
+2014-09,Government,Mexico,Montana,COGS,11665.85
+2014-09,Government,Mexico,Montana,Discounts,1922.9
+2014-09,Government,Mexico,Montana,Gross Sales,16313.88
+2014-09,Government,Mexico,Montana,Units Sold,2330.55
+2014-09,Government,Mexico,Paseo,COGS,29580.0
+2014-09,Government,Mexico,Paseo,Discounts,4695.07
+2014-09,Government,Mexico,Paseo,Gross Sales,60344.05
+2014-09,Government,Mexico,Paseo,Units Sold,3017.2
+2014-09,Government,United States of America,Amarilla,COGS,543476.98
+2014-09,Government,United States of America,Amarilla,Discounts,66268.56
+2014-09,Government,United States of America,Amarilla,Gross Sales,737706.01
+2014-09,Government,United States of America,Amarilla,Units Sold,2107.73
+2014-09,Government,United States of America,Montana,COGS,10770.46
+2014-09,Government,United States of America,Montana,Discounts,1543.8
+2014-09,Government,United States of America,Montana,Gross Sales,15158.1
+2014-09,Government,United States of America,Montana,Units Sold,2165.44
+2014-09,Government,United States of America,Paseo,COGS,10603.92
+2014-09,Government,United States of America,Paseo,Discounts,823.29
+2014-09,Government,United States of America,Paseo,Gross Sales,21520.26
+2014-09,Government,United States of America,Paseo,Units Sold,1076.01
+2014-09,Midmarket,Canada,Paseo,COGS,2329.45
+2014-09,Midmarket,Canada,Paseo,Discounts,141.32
+2014-09,Midmarket,Canada,Paseo,Gross Sales,3581.24
+2014-09,Midmarket,Canada,Paseo,Units Sold,238.75
+2014-09,Midmarket,France,Paseo,COGS,26119.42
+2014-09,Midmarket,France,Paseo,Discounts,2107.26
+2014-09,Midmarket,France,Paseo,Gross Sales,40318.97
+2014-09,Midmarket,France,Paseo,Units Sold,2687.93
+2014-09,Midmarket,Germany,Paseo,COGS,7552.71
+2014-09,Midmarket,Germany,Paseo,Discounts,115.02
+2014-09,Midmarket,Germany,Paseo,Gross Sales,11885.23
+2014-09,Midmarket,Germany,Paseo,Units Sold,792.35
+2014-09,Midmarket,Mexico,Paseo,COGS,24375.44
+2014-09,Midmarket,Mexico,Paseo,Discounts,0.0
+2014-09,Midmarket,Mexico,Paseo,Gross Sales,37352.29
+2014-09,Midmarket,Mexico,Paseo,Units Sold,2490.15
+2014-09,Midmarket,United States of America,Paseo,COGS,17839.43
+2014-09,Midmarket,United States of America,Paseo,Discounts,3646.05
+2014-09,Midmarket,United States of America,Paseo,Gross Sales,26427.49
+2014-09,Midmarket,United States of America,Paseo,Units Sold,1761.83
+2014-09,Small Business,Canada,VTT,COGS,524380.6
+2014-09,Small Business,Canada,VTT,Discounts,52854.56
+2014-09,Small Business,Canada,VTT,Gross Sales,650038.43
+2014-09,Small Business,Canada,VTT,Units Sold,2166.79
+2014-09,Small Business,France,VTT,COGS,506243.07
+2014-09,Small Business,France,VTT,Discounts,0.0
+2014-09,Small Business,France,VTT,Gross Sales,624581.77
+2014-09,Small Business,France,VTT,Units Sold,2081.94
+2014-09,Small Business,Germany,VTT,COGS,245673.25
+2014-09,Small Business,Germany,VTT,Discounts,2909.43
+2014-09,Small Business,Germany,VTT,Gross Sales,284613.62
+2014-09,Small Business,Germany,VTT,Units Sold,948.71
+2014-09,Small Business,Mexico,VTT,COGS,112165.09
+2014-09,Small Business,Mexico,VTT,Discounts,14005.21
+2014-09,Small Business,Mexico,VTT,Gross Sales,136333.62
+2014-09,Small Business,Mexico,VTT,Units Sold,454.45
+2014-09,Small Business,United States of America,VTT,COGS,496253.99
+2014-09,Small Business,United States of America,VTT,Discounts,51413.7
+2014-09,Small Business,United States of America,VTT,Gross Sales,591705.49
+2014-09,Small Business,United States of America,VTT,Units Sold,1972.35
+2014-10,Channel Partners,Canada,Carretera,COGS,3781.96
+2014-10,Channel Partners,Canada,Carretera,Discounts,308.7
+2014-10,Channel Partners,Canada,Carretera,Gross Sales,14935.98
+2014-10,Channel Partners,Canada,Carretera,Units Sold,1244.67
+2014-10,Channel Partners,Canada,Paseo,COGS,4091.89
+2014-10,Channel Partners,Canada,Paseo,Discounts,314.81
+2014-10,Channel Partners,Canada,Paseo,Gross Sales,16153.51
+2014-10,Channel Partners,Canada,Paseo,Units Sold,1346.13
+2014-10,Channel Partners,France,Amarilla,COGS,4037.7
+2014-10,Channel Partners,France,Amarilla,Discounts,2350.27
+2014-10,Channel Partners,France,Amarilla,Gross Sales,16657.96
+2014-10,Channel Partners,France,Amarilla,Units Sold,1388.16
+2014-10,Channel Partners,France,Paseo,COGS,4216.61
+2014-10,Channel Partners,France,Paseo,Discounts,2390.65
+2014-10,Channel Partners,France,Paseo,Gross Sales,16944.76
+2014-10,Channel Partners,France,Paseo,Units Sold,1412.06
+2014-10,Channel Partners,Germany,Amarilla,COGS,1395.63
+2014-10,Channel Partners,Germany,Amarilla,Discounts,643.85
+2014-10,Channel Partners,Germany,Amarilla,Gross Sales,5769.23
+2014-10,Channel Partners,Germany,Amarilla,Units Sold,480.77
+2014-10,Channel Partners,Germany,Velo,COGS,1545.55
+2014-10,Channel Partners,Germany,Velo,Discounts,654.87
+2014-10,Channel Partners,Germany,Velo,Gross Sales,5893.82
+2014-10,Channel Partners,Germany,Velo,Units Sold,491.15
+2014-10,Channel Partners,Mexico,Amarilla,COGS,1194.71
+2014-10,Channel Partners,Mexico,Amarilla,Discounts,625.48
+2014-10,Channel Partners,Mexico,Amarilla,Gross Sales,4936.31
+2014-10,Channel Partners,Mexico,Amarilla,Units Sold,411.36
+2014-10,Channel Partners,Mexico,Velo,COGS,1274.1
+2014-10,Channel Partners,Mexico,Velo,Discounts,649.31
+2014-10,Channel Partners,Mexico,Velo,Gross Sales,5205.5
+2014-10,Channel Partners,Mexico,Velo,Units Sold,433.79
+2014-10,Channel Partners,United States of America,Amarilla,COGS,8666.66
+2014-10,Channel Partners,United States of America,Amarilla,Discounts,5086.2
+2014-10,Channel Partners,United States of America,Amarilla,Gross Sales,35403.47
+2014-10,Channel Partners,United States of America,Amarilla,Units Sold,2950.29
+2014-10,Channel Partners,United States of America,Paseo,COGS,8694.72
+2014-10,Channel Partners,United States of America,Paseo,Discounts,5047.27
+2014-10,Channel Partners,United States of America,Paseo,Gross Sales,35852.05
+2014-10,Channel Partners,United States of America,Paseo,Units Sold,2987.67
+2014-10,Enterprise,Canada,Paseo,COGS,239485.0
+2014-10,Enterprise,Canada,Paseo,Discounts,7538.04
+2014-10,Enterprise,Canada,Paseo,Gross Sales,242892.83
+2014-10,Enterprise,Canada,Paseo,Units Sold,1943.14
+2014-10,Enterprise,Canada,Velo,COGS,275554.95
+2014-10,Enterprise,Canada,Velo,Discounts,8202.15
+2014-10,Enterprise,Canada,Velo,Gross Sales,273772.42
+2014-10,Enterprise,Canada,Velo,Units Sold,2190.18
+2014-10,Enterprise,France,Carretera,COGS,295636.89
+2014-10,Enterprise,France,Carretera,Discounts,32758.76
+2014-10,Enterprise,France,Carretera,Gross Sales,310913.43
+2014-10,Enterprise,France,Carretera,Units Sold,2487.31
+2014-10,Enterprise,France,Paseo,COGS,293434.96
+2014-10,Enterprise,France,Paseo,Discounts,35535.72
+2014-10,Enterprise,France,Paseo,Gross Sales,313952.41
+2014-10,Enterprise,France,Paseo,Units Sold,2511.62
+2014-10,Enterprise,Germany,Carretera,COGS,116626.22
+2014-10,Enterprise,Germany,Carretera,Discounts,18864.33
+2014-10,Enterprise,Germany,Carretera,Gross Sales,127175.28
+2014-10,Enterprise,Germany,Carretera,Units Sold,1017.4
+2014-10,Enterprise,Germany,Paseo,COGS,125370.02
+2014-10,Enterprise,Germany,Paseo,Discounts,19887.14
+2014-10,Enterprise,Germany,Paseo,Gross Sales,131234.48
+2014-10,Enterprise,Germany,Paseo,Units Sold,1049.88
+2014-10,Enterprise,Mexico,Carretera,COGS,270132.97
+2014-10,Enterprise,Mexico,Carretera,Discounts,33321.58
+2014-10,Enterprise,Mexico,Carretera,Gross Sales,283180.28
+2014-10,Enterprise,Mexico,Carretera,Units Sold,2265.44
+2014-10,Enterprise,Mexico,Paseo,COGS,258297.12
+2014-10,Enterprise,Mexico,Paseo,Discounts,34326.97
+2014-10,Enterprise,Mexico,Paseo,Gross Sales,272610.5
+2014-10,Enterprise,Mexico,Paseo,Units Sold,2180.88
+2014-10,Enterprise,United States of America,Paseo,COGS,96129.62
+2014-10,Enterprise,United States of America,Paseo,Discounts,4853.6
+2014-10,Enterprise,United States of America,Paseo,Gross Sales,99693.63
+2014-10,Enterprise,United States of America,Paseo,Units Sold,797.55
+2014-10,Enterprise,United States of America,Velo,COGS,108552.61
+2014-10,Enterprise,United States of America,Velo,Discounts,5552.66
+2014-10,Enterprise,United States of America,Velo,Gross Sales,112188.96
+2014-10,Enterprise,United States of America,Velo,Units Sold,897.51
+2014-10,Government,Canada,Amarilla,COGS,338389.25
+2014-10,Government,Canada,Amarilla,Discounts,41493.88
+2014-10,Government,Canada,Amarilla,Gross Sales,453319.68
+2014-10,Government,Canada,Amarilla,Units Sold,3916.87
+2014-10,Government,Canada,Montana,COGS,27504.28
+2014-10,Government,Canada,Montana,Discounts,5673.73
+2014-10,Government,Canada,Montana,Gross Sales,46680.22
+2014-10,Government,Canada,Montana,Units Sold,4214.32
+2014-10,Government,Canada,Paseo,COGS,12171.97
+2014-10,Government,Canada,Paseo,Discounts,3268.1
+2014-10,Government,Canada,Paseo,Gross Sales,24892.39
+2014-10,Government,Canada,Paseo,Units Sold,1244.62
+2014-10,Government,Canada,Velo,COGS,337082.55
+2014-10,Government,Canada,Velo,Discounts,42251.06
+2014-10,Government,Canada,Velo,Gross Sales,447801.75
+2014-10,Government,Canada,Velo,Units Sold,1279.43
+2014-10,Government,France,Amarilla,COGS,9075.2
+2014-10,Government,France,Amarilla,Discounts,1752.13
+2014-10,Government,France,Amarilla,Gross Sales,12702.1
+2014-10,Government,France,Amarilla,Units Sold,1814.59
+2014-10,Government,France,Montana,COGS,19401.9
+2014-10,Government,France,Montana,Discounts,2700.49
+2014-10,Government,France,Montana,Gross Sales,38126.41
+2014-10,Government,France,Montana,Units Sold,1906.32
+2014-10,Government,France,Paseo,COGS,8449.45
+2014-10,Government,France,Paseo,Discounts,1495.86
+2014-10,Government,France,Paseo,Gross Sales,11645.22
+2014-10,Government,France,Paseo,Units Sold,1663.6
+2014-10,Government,France,VTT,COGS,545619.65
+2014-10,Government,France,VTT,Discounts,30204.07
+2014-10,Government,France,VTT,Gross Sales,755984.6
+2014-10,Government,France,VTT,Units Sold,2159.96
+2014-10,Government,France,Velo,COGS,588117.83
+2014-10,Government,France,Velo,Discounts,34040.04
+2014-10,Government,France,Velo,Gross Sales,828431.75
+2014-10,Government,France,Velo,Units Sold,4292.71
+2014-10,Government,Germany,Paseo,COGS,3931.42
+2014-10,Government,Germany,Paseo,Discounts,655.55
+2014-10,Government,Germany,Paseo,Gross Sales,6959.47
+2014-10,Government,Germany,Paseo,Units Sold,569.84
+2014-10,Government,Germany,VTT,COGS,686605.68
+2014-10,Government,Germany,VTT,Discounts,19669.4
+2014-10,Government,Germany,VTT,Gross Sales,944314.56
+2014-10,Government,Germany,VTT,Units Sold,3028.07
+2014-10,Government,Germany,Velo,COGS,787282.63
+2014-10,Government,Germany,Velo,Discounts,21103.17
+2014-10,Government,Germany,Velo,Gross Sales,1045661.93
+2014-10,Government,Germany,Velo,Units Sold,3222.45
+2014-10,Government,Mexico,Carretera,COGS,357055.49
+2014-10,Government,Mexico,Carretera,Discounts,4747.57
+2014-10,Government,Mexico,Carretera,Gross Sales,477298.03
+2014-10,Government,Mexico,Carretera,Units Sold,1363.71
+2014-10,Government,Mexico,Paseo,COGS,22631.65
+2014-10,Government,Mexico,Paseo,Discounts,3030.01
+2014-10,Government,Mexico,Paseo,Gross Sales,36348.23
+2014-10,Government,Mexico,Paseo,Units Sold,3538.05
+2014-10,Government,Mexico,VTT,COGS,352475.9
+2014-10,Government,Mexico,VTT,Discounts,5102.0
+2014-10,Government,Mexico,VTT,Gross Sales,471425.97
+2014-10,Government,Mexico,VTT,Units Sold,3793.52
+2014-10,Government,Mexico,Velo,COGS,8844.27
+2014-10,Government,Mexico,Velo,Discounts,2042.02
+2014-10,Government,Mexico,Velo,Gross Sales,17615.03
+2014-10,Government,Mexico,Velo,Units Sold,880.75
+2014-10,Government,United States of America,Amarilla,COGS,5850.36
+2014-10,Government,United States of America,Amarilla,Discounts,0.0
+2014-10,Government,United States of America,Amarilla,Gross Sales,7998.58
+2014-10,Government,United States of America,Amarilla,Units Sold,1142.65
+2014-10,Government,United States of America,Montana,COGS,16406.47
+2014-10,Government,United States of America,Montana,Discounts,609.0
+2014-10,Government,United States of America,Montana,Gross Sales,32507.54
+2014-10,Government,United States of America,Montana,Units Sold,1625.38
+2014-10,Government,United States of America,Paseo,COGS,5548.94
+2014-10,Government,United States of America,Paseo,Discounts,0.0
+2014-10,Government,United States of America,Paseo,Gross Sales,7757.94
+2014-10,Government,United States of America,Paseo,Units Sold,1108.28
+2014-10,Government,United States of America,VTT,COGS,282042.26
+2014-10,Government,United States of America,VTT,Discounts,43719.82
+2014-10,Government,United States of America,VTT,Gross Sales,368753.82
+2014-10,Government,United States of America,VTT,Units Sold,1053.58
+2014-10,Government,United States of America,Velo,COGS,265282.24
+2014-10,Government,United States of America,Velo,Discounts,43042.49
+2014-10,Government,United States of America,Velo,Gross Sales,366252.62
+2014-10,Government,United States of America,Velo,Units Sold,2483.07
+2014-10,Midmarket,Canada,Paseo,COGS,15135.48
+2014-10,Midmarket,Canada,Paseo,Discounts,3037.96
+2014-10,Midmarket,Canada,Paseo,Gross Sales,22842.26
+2014-10,Midmarket,Canada,Paseo,Units Sold,1522.82
+2014-10,Midmarket,Canada,VTT,COGS,16363.72
+2014-10,Midmarket,Canada,VTT,Discounts,3191.06
+2014-10,Midmarket,Canada,VTT,Gross Sales,24963.89
+2014-10,Midmarket,Canada,VTT,Units Sold,1664.26
+2014-10,Midmarket,France,Paseo,COGS,12548.21
+2014-10,Midmarket,France,Paseo,Discounts,1735.9
+2014-10,Midmarket,France,Paseo,Gross Sales,18561.34
+2014-10,Midmarket,France,Paseo,Units Sold,1237.42
+2014-10,Midmarket,France,VTT,COGS,12298.98
+2014-10,Midmarket,France,VTT,Discounts,1584.28
+2014-10,Midmarket,France,VTT,Gross Sales,18003.05
+2014-10,Midmarket,France,VTT,Units Sold,1200.2
+2014-10,Midmarket,Germany,Paseo,COGS,11665.5
+2014-10,Midmarket,Germany,Paseo,Discounts,2706.93
+2014-10,Midmarket,Germany,Paseo,Gross Sales,17515.97
+2014-10,Midmarket,Germany,Paseo,Units Sold,1167.73
+2014-10,Midmarket,Germany,VTT,COGS,12727.92
+2014-10,Midmarket,Germany,VTT,Discounts,2677.01
+2014-10,Midmarket,Germany,VTT,Gross Sales,18605.2
+2014-10,Midmarket,Germany,VTT,Units Sold,1240.35
+2014-10,Midmarket,Mexico,Montana,COGS,20688.21
+2014-10,Midmarket,Mexico,Montana,Discounts,1333.81
+2014-10,Midmarket,Mexico,Montana,Gross Sales,32305.15
+2014-10,Midmarket,Mexico,Montana,Units Sold,2153.68
+2014-10,Midmarket,Mexico,Paseo,COGS,19635.36
+2014-10,Midmarket,Mexico,Paseo,Discounts,1165.06
+2014-10,Midmarket,Mexico,Paseo,Gross Sales,29485.74
+2014-10,Midmarket,Mexico,Paseo,Units Sold,1965.72
+2014-10,Midmarket,United States of America,Paseo,COGS,11501.22
+2014-10,Midmarket,United States of America,Paseo,Discounts,1003.98
+2014-10,Midmarket,United States of America,Paseo,Gross Sales,17265.67
+2014-10,Midmarket,United States of America,Paseo,Units Sold,1151.04
+2014-10,Midmarket,United States of America,VTT,COGS,11403.4
+2014-10,Midmarket,United States of America,VTT,Discounts,1034.66
+2014-10,Midmarket,United States of America,VTT,Gross Sales,17357.48
+2014-10,Midmarket,United States of America,VTT,Units Sold,1157.17
+2014-10,Small Business,Canada,Carretera,COGS,376674.62
+2014-10,Small Business,Canada,Carretera,Discounts,60904.12
+2014-10,Small Business,Canada,Carretera,Gross Sales,431439.7
+2014-10,Small Business,Canada,Carretera,Units Sold,1438.13
+2014-10,Small Business,Canada,VTT,COGS,372673.86
+2014-10,Small Business,Canada,VTT,Discounts,61761.7
+2014-10,Small Business,Canada,VTT,Gross Sales,447801.45
+2014-10,Small Business,Canada,VTT,Units Sold,1492.67
+2014-10,Small Business,France,Carretera,COGS,540918.85
+2014-10,Small Business,France,Carretera,Discounts,46572.06
+2014-10,Small Business,France,Carretera,Gross Sales,654439.32
+2014-10,Small Business,France,Carretera,Units Sold,2181.46
+2014-10,Small Business,France,Montana,COGS,570990.11
+2014-10,Small Business,France,Montana,Discounts,47099.85
+2014-10,Small Business,France,Montana,Gross Sales,684832.54
+2014-10,Small Business,France,Montana,Units Sold,2282.78
+2014-10,Small Business,Germany,Carretera,COGS,509011.06
+2014-10,Small Business,Germany,Carretera,Discounts,25925.74
+2014-10,Small Business,Germany,Carretera,Gross Sales,636301.12
+2014-10,Small Business,Germany,Carretera,Units Sold,2121.0
+2014-10,Small Business,Germany,Montana,COGS,491062.28
+2014-10,Small Business,Germany,Montana,Discounts,24252.27
+2014-10,Small Business,Germany,Montana,Gross Sales,598368.35
+2014-10,Small Business,Germany,Montana,Units Sold,1994.56
+2014-10,Small Business,Mexico,Amarilla,COGS,137998.17
+2014-10,Small Business,Mexico,Amarilla,Discounts,24316.1
+2014-10,Small Business,Mexico,Amarilla,Gross Sales,162404.16
+2014-10,Small Business,Mexico,Amarilla,Units Sold,541.35
+2014-10,Small Business,Mexico,Montana,COGS,138412.4
+2014-10,Small Business,Mexico,Montana,Discounts,24897.51
+2014-10,Small Business,Mexico,Montana,Gross Sales,168210.78
+2014-10,Small Business,Mexico,Montana,Units Sold,560.7
+2014-10,Small Business,United States of America,Carretera,COGS,242569.26
+2014-10,Small Business,United States of America,Carretera,Discounts,41626.97
+2014-10,Small Business,United States of America,Carretera,Gross Sales,295989.88
+2014-10,Small Business,United States of America,Carretera,Units Sold,986.63
+2014-10,Small Business,United States of America,VTT,COGS,265286.47
+2014-10,Small Business,United States of America,VTT,Discounts,44147.59
+2014-10,Small Business,United States of America,VTT,Gross Sales,310218.97
+2014-10,Small Business,United States of America,VTT,Units Sold,1034.06
+2014-11,Channel Partners,Canada,Montana,COGS,7124.55
+2014-11,Channel Partners,Canada,Montana,Discounts,2652.39
+2014-11,Channel Partners,Canada,Montana,Gross Sales,27754.24
+2014-11,Channel Partners,Canada,Montana,Units Sold,2312.85
+2014-11,Channel Partners,France,Montana,COGS,6828.66
+2014-11,Channel Partners,France,Montana,Discounts,1945.79
+2014-11,Channel Partners,France,Montana,Gross Sales,27035.1
+2014-11,Channel Partners,France,Montana,Units Sold,2252.92
+2014-11,Channel Partners,Germany,Montana,COGS,6700.62
+2014-11,Channel Partners,Germany,Montana,Discounts,1392.03
+2014-11,Channel Partners,Germany,Montana,Gross Sales,27048.69
+2014-11,Channel Partners,Germany,Montana,Units Sold,2254.06
+2014-11,Channel Partners,Mexico,Montana,COGS,2182.85
+2014-11,Channel Partners,Mexico,Montana,Discounts,191.73
+2014-11,Channel Partners,Mexico,Montana,Gross Sales,8773.41
+2014-11,Channel Partners,Mexico,Montana,Units Sold,731.12
+2014-11,Channel Partners,United States of America,Montana,COGS,7987.48
+2014-11,Channel Partners,United States of America,Montana,Discounts,1978.49
+2014-11,Channel Partners,United States of America,Montana,Gross Sales,32472.19
+2014-11,Channel Partners,United States of America,Montana,Units Sold,2706.02
+2014-11,Enterprise,Canada,VTT,COGS,317613.05
+2014-11,Enterprise,Canada,VTT,Discounts,34247.08
+2014-11,Enterprise,Canada,VTT,Gross Sales,337562.9
+2014-11,Enterprise,Canada,VTT,Units Sold,2700.5
+2014-11,Enterprise,France,VTT,COGS,200741.51
+2014-11,Enterprise,France,VTT,Discounts,2180.77
+2014-11,Enterprise,France,VTT,Gross Sales,213566.79
+2014-11,Enterprise,France,VTT,Units Sold,1708.53
+2014-11,Enterprise,Germany,VTT,COGS,66187.7
+2014-11,Enterprise,Germany,VTT,Discounts,10154.31
+2014-11,Enterprise,Germany,VTT,Gross Sales,69808.43
+2014-11,Enterprise,Germany,VTT,Units Sold,558.47
+2014-11,Enterprise,Mexico,VTT,COGS,113413.33
+2014-11,Enterprise,Mexico,VTT,Discounts,10712.6
+2014-11,Enterprise,Mexico,VTT,Gross Sales,120635.37
+2014-11,Enterprise,Mexico,VTT,Units Sold,965.08
+2014-11,Enterprise,United States of America,VTT,COGS,265990.35
+2014-11,Enterprise,United States of America,VTT,Discounts,33801.0
+2014-11,Enterprise,United States of America,VTT,Gross Sales,286018.25
+2014-11,Enterprise,United States of America,VTT,Units Sold,2288.15
+2014-11,Government,Canada,Amarilla,COGS,10408.18
+2014-11,Government,Canada,Amarilla,Discounts,1478.97
+2014-11,Government,Canada,Amarilla,Gross Sales,20725.42
+2014-11,Government,Canada,Amarilla,Units Sold,1036.27
+2014-11,Government,Canada,Paseo,COGS,192510.6
+2014-11,Government,Canada,Paseo,Discounts,35922.72
+2014-11,Government,Canada,Paseo,Gross Sales,257938.66
+2014-11,Government,Canada,Paseo,Units Sold,736.97
+2014-11,Government,Canada,Velo,COGS,9043.42
+2014-11,Government,Canada,Velo,Discounts,1352.46
+2014-11,Government,Canada,Velo,Gross Sales,12244.28
+2014-11,Government,Canada,Velo,Units Sold,1749.18
+2014-11,Government,France,Amarilla,COGS,9276.53
+2014-11,Government,France,Amarilla,Discounts,388.36
+2014-11,Government,France,Amarilla,Gross Sales,18804.42
+2014-11,Government,France,Amarilla,Units Sold,940.22
+2014-11,Government,France,Paseo,COGS,407237.29
+2014-11,Government,France,Paseo,Discounts,67090.63
+2014-11,Government,France,Paseo,Gross Sales,544976.68
+2014-11,Government,France,Paseo,Units Sold,1557.08
+2014-11,Government,France,Velo,COGS,3249.65
+2014-11,Government,France,Velo,Discounts,44.99
+2014-11,Government,France,Velo,Gross Sales,4521.24
+2014-11,Government,France,Velo,Units Sold,645.89
+2014-11,Government,Germany,Amarilla,COGS,14558.64
+2014-11,Government,Germany,Amarilla,Discounts,2294.21
+2014-11,Government,Germany,Amarilla,Gross Sales,29265.85
+2014-11,Government,Germany,Amarilla,Units Sold,1463.29
+2014-11,Government,Germany,Paseo,COGS,93526.19
+2014-11,Government,Germany,Paseo,Discounts,16676.26
+2014-11,Government,Germany,Paseo,Gross Sales,124053.89
+2014-11,Government,Germany,Paseo,Units Sold,354.44
+2014-11,Government,Germany,Velo,COGS,13777.27
+2014-11,Government,Germany,Velo,Discounts,1943.47
+2014-11,Government,Germany,Velo,Gross Sales,18993.69
+2014-11,Government,Germany,Velo,Units Sold,2713.38
+2014-11,Government,Mexico,Amarilla,COGS,16376.91
+2014-11,Government,Mexico,Amarilla,Discounts,2787.54
+2014-11,Government,Mexico,Amarilla,Gross Sales,32540.73
+2014-11,Government,Mexico,Amarilla,Units Sold,1627.04
+2014-11,Government,Mexico,Paseo,COGS,301078.43
+2014-11,Government,Mexico,Paseo,Discounts,48426.43
+2014-11,Government,Mexico,Paseo,Gross Sales,407380.74
+2014-11,Government,Mexico,Paseo,Units Sold,1163.94
+2014-11,Government,Mexico,Velo,COGS,6526.03
+2014-11,Government,Mexico,Velo,Discounts,554.88
+2014-11,Government,Mexico,Velo,Gross Sales,9202.24
+2014-11,Government,Mexico,Velo,Units Sold,1314.61
+2014-11,Government,United States of America,Amarilla,COGS,11354.07
+2014-11,Government,United States of America,Amarilla,Discounts,477.85
+2014-11,Government,United States of America,Amarilla,Gross Sales,23346.8
+2014-11,Government,United States of America,Amarilla,Units Sold,1167.34
+2014-11,Government,United States of America,Paseo,COGS,296041.12
+2014-11,Government,United States of America,Paseo,Discounts,58254.63
+2014-11,Government,United States of America,Paseo,Gross Sales,405045.56
+2014-11,Government,United States of America,Paseo,Units Sold,1157.27
+2014-11,Government,United States of America,Velo,COGS,2713.84
+2014-11,Government,United States of America,Velo,Discounts,271.6
+2014-11,Government,United States of America,Velo,Gross Sales,3847.24
+2014-11,Government,United States of America,Velo,Units Sold,549.61
+2014-11,Midmarket,Canada,Carretera,COGS,25868.77
+2014-11,Midmarket,Canada,Carretera,Discounts,4847.09
+2014-11,Midmarket,Canada,Carretera,Gross Sales,39695.49
+2014-11,Midmarket,Canada,Carretera,Units Sold,2646.37
+2014-11,Midmarket,France,Carretera,COGS,4889.74
+2014-11,Midmarket,France,Carretera,Discounts,582.77
+2014-11,Midmarket,France,Carretera,Gross Sales,7270.65
+2014-11,Midmarket,France,Carretera,Units Sold,484.71
+2014-11,Midmarket,Germany,Carretera,COGS,15479.77
+2014-11,Midmarket,Germany,Carretera,Discounts,3110.59
+2014-11,Midmarket,Germany,Carretera,Gross Sales,22676.94
+2014-11,Midmarket,Germany,Carretera,Units Sold,1511.8
+2014-11,Midmarket,Mexico,Carretera,COGS,26693.69
+2014-11,Midmarket,Mexico,Carretera,Discounts,2023.08
+2014-11,Midmarket,Mexico,Carretera,Gross Sales,40781.17
+2014-11,Midmarket,Mexico,Carretera,Units Sold,2718.74
+2014-11,Midmarket,United States of America,Carretera,COGS,20987.27
+2014-11,Midmarket,United States of America,Carretera,Discounts,1879.28
+2014-11,Midmarket,United States of America,Carretera,Gross Sales,31303.46
+2014-11,Midmarket,United States of America,Carretera,Units Sold,2086.9
+2014-11,Small Business,Canada,Paseo,COGS,354209.2
+2014-11,Small Business,Canada,Paseo,Discounts,47693.38
+2014-11,Small Business,Canada,Paseo,Gross Sales,434027.7
+2014-11,Small Business,Canada,Paseo,Units Sold,1446.76
+2014-11,Small Business,France,Paseo,COGS,322926.92
+2014-11,Small Business,France,Paseo,Discounts,33105.15
+2014-11,Small Business,France,Paseo,Gross Sales,389890.03
+2014-11,Small Business,France,Paseo,Units Sold,1299.63
+2014-11,Small Business,Germany,Paseo,COGS,341625.53
+2014-11,Small Business,Germany,Paseo,Discounts,49287.96
+2014-11,Small Business,Germany,Paseo,Gross Sales,415689.9
+2014-11,Small Business,Germany,Paseo,Units Sold,1385.63
+2014-11,Small Business,Mexico,Paseo,COGS,538781.5
+2014-11,Small Business,Mexico,Paseo,Discounts,76790.95
+2014-11,Small Business,Mexico,Paseo,Gross Sales,638847.41
+2014-11,Small Business,Mexico,Paseo,Units Sold,2129.49
+2014-11,Small Business,United States of America,Paseo,COGS,726940.8
+2014-11,Small Business,United States of America,Paseo,Discounts,8768.7
+2014-11,Small Business,United States of America,Paseo,Gross Sales,884334.48
+2014-11,Small Business,United States of America,Paseo,Units Sold,2947.78
+2014-12,Channel Partners,Canada,Paseo,COGS,7921.47
+2014-12,Channel Partners,Canada,Paseo,Discounts,1541.38
+2014-12,Channel Partners,Canada,Paseo,Gross Sales,31057.51
+2014-12,Channel Partners,Canada,Paseo,Units Sold,2588.13
+2014-12,Channel Partners,Canada,Velo,COGS,7406.33
+2014-12,Channel Partners,Canada,Velo,Discounts,1510.37
+2014-12,Channel Partners,Canada,Velo,Gross Sales,29771.62
+2014-12,Channel Partners,Canada,Velo,Units Sold,2480.97
+2014-12,Channel Partners,France,Paseo,COGS,2909.96
+2014-12,Channel Partners,France,Paseo,Discounts,228.23
+2014-12,Channel Partners,France,Paseo,Gross Sales,11793.06
+2014-12,Channel Partners,France,Paseo,Units Sold,982.75
+2014-12,Channel Partners,France,Velo,COGS,3142.21
+2014-12,Channel Partners,France,Velo,Discounts,245.25
+2014-12,Channel Partners,France,Velo,Gross Sales,12892.0
+2014-12,Channel Partners,France,Velo,Units Sold,1074.33
+2014-12,Channel Partners,Germany,Paseo,COGS,3208.79
+2014-12,Channel Partners,Germany,Paseo,Discounts,1642.82
+2014-12,Channel Partners,Germany,Paseo,Gross Sales,12770.49
+2014-12,Channel Partners,Germany,Paseo,Units Sold,1064.21
+2014-12,Channel Partners,Germany,Velo,COGS,3066.11
+2014-12,Channel Partners,Germany,Velo,Discounts,1602.24
+2014-12,Channel Partners,Germany,Velo,Gross Sales,12048.73
+2014-12,Channel Partners,Germany,Velo,Units Sold,1004.06
+2014-12,Channel Partners,Mexico,Paseo,COGS,3402.62
+2014-12,Channel Partners,Mexico,Paseo,Discounts,284.44
+2014-12,Channel Partners,Mexico,Paseo,Gross Sales,13536.5
+2014-12,Channel Partners,Mexico,Paseo,Units Sold,1128.04
+2014-12,Channel Partners,Mexico,Velo,COGS,3305.11
+2014-12,Channel Partners,Mexico,Velo,Discounts,259.01
+2014-12,Channel Partners,Mexico,Velo,Gross Sales,12653.83
+2014-12,Channel Partners,Mexico,Velo,Units Sold,1054.49
+2014-12,Channel Partners,United States of America,Paseo,COGS,2657.7
+2014-12,Channel Partners,United States of America,Paseo,Discounts,1482.0
+2014-12,Channel Partners,United States of America,Paseo,Gross Sales,10335.25
+2014-12,Channel Partners,United States of America,Paseo,Units Sold,861.27
+2014-12,Channel Partners,United States of America,Velo,COGS,2740.57
+2014-12,Channel Partners,United States of America,Velo,Discounts,1642.98
+2014-12,Channel Partners,United States of America,Velo,Gross Sales,11030.11
+2014-12,Channel Partners,United States of America,Velo,Units Sold,919.18
+2014-12,Enterprise,Canada,Paseo,COGS,303319.61
+2014-12,Enterprise,Canada,Paseo,Discounts,6408.57
+2014-12,Enterprise,Canada,Paseo,Gross Sales,317980.45
+2014-12,Enterprise,Canada,Paseo,Units Sold,2543.84
+2014-12,Enterprise,Canada,VTT,COGS,327401.17
+2014-12,Enterprise,Canada,VTT,Discounts,6793.38
+2014-12,Enterprise,Canada,VTT,Gross Sales,337868.96
+2014-12,Enterprise,Canada,VTT,Units Sold,2702.95
+2014-12,Enterprise,France,Montana,COGS,159872.55
+2014-12,Enterprise,France,Montana,Discounts,5163.39
+2014-12,Enterprise,France,Montana,Gross Sales,169372.66
+2014-12,Enterprise,France,Montana,Units Sold,1354.98
+2014-12,Enterprise,France,Paseo,COGS,146419.1
+2014-12,Enterprise,France,Paseo,Discounts,4348.29
+2014-12,Enterprise,France,Paseo,Gross Sales,149043.34
+2014-12,Enterprise,France,Paseo,Units Sold,1192.35
+2014-12,Enterprise,Germany,Montana,COGS,195912.73
+2014-12,Enterprise,Germany,Montana,Discounts,6090.16
+2014-12,Enterprise,Germany,Montana,Gross Sales,202610.48
+2014-12,Enterprise,Germany,Montana,Units Sold,1620.88
+2014-12,Enterprise,Germany,Paseo,COGS,197448.54
+2014-12,Enterprise,Germany,Paseo,Discounts,6216.19
+2014-12,Enterprise,Germany,Paseo,Gross Sales,204625.99
+2014-12,Enterprise,Germany,Paseo,Units Sold,1637.01
+2014-12,Enterprise,Mexico,Montana,COGS,138086.02
+2014-12,Enterprise,Mexico,Montana,Discounts,5816.19
+2014-12,Enterprise,Mexico,Montana,Gross Sales,141890.17
+2014-12,Enterprise,Mexico,Montana,Units Sold,1135.12
+2014-12,Enterprise,Mexico,Paseo,COGS,139213.91
+2014-12,Enterprise,Mexico,Paseo,Discounts,5471.83
+2014-12,Enterprise,Mexico,Paseo,Gross Sales,140184.22
+2014-12,Enterprise,Mexico,Paseo,Units Sold,1121.47
+2014-12,Enterprise,United States of America,Montana,COGS,356173.47
+2014-12,Enterprise,United States of America,Montana,Discounts,32932.9
+2014-12,Enterprise,United States of America,Montana,Gross Sales,369749.82
+2014-12,Enterprise,United States of America,Montana,Units Sold,2958.0
+2014-12,Enterprise,United States of America,Paseo,COGS,347912.05
+2014-12,Enterprise,United States of America,Paseo,Discounts,30038.97
+2014-12,Enterprise,United States of America,Paseo,Gross Sales,363229.58
+2014-12,Enterprise,United States of America,Paseo,Units Sold,2905.84
+2014-12,Government,Canada,Carretera,COGS,779179.27
+2014-12,Government,Canada,Carretera,Discounts,19983.8
+2014-12,Government,Canada,Carretera,Gross Sales,1018172.44
+2014-12,Government,Canada,Carretera,Units Sold,2909.06
+2014-12,Government,Canada,Paseo,COGS,778914.92
+2014-12,Government,Canada,Paseo,Discounts,19764.72
+2014-12,Government,Canada,Paseo,Gross Sales,1040584.0
+2014-12,Government,Canada,Paseo,Units Sold,4696.28
+2014-12,Government,Canada,VTT,COGS,26323.38
+2014-12,Government,Canada,VTT,Discounts,763.38
+2014-12,Government,Canada,VTT,Gross Sales,48165.68
+2014-12,Government,Canada,VTT,Units Sold,3452.89
+2014-12,Government,Canada,Velo,COGS,7642.71
+2014-12,Government,Canada,Velo,Discounts,752.63
+2014-12,Government,Canada,Velo,Gross Sales,10698.68
+2014-12,Government,Canada,Velo,Units Sold,1528.38
+2014-12,Government,France,Carretera,COGS,595029.84
+2014-12,Government,France,Carretera,Discounts,8691.81
+2014-12,Government,France,Carretera,Gross Sales,798576.81
+2014-12,Government,France,Carretera,Units Sold,4803.93
+2014-12,Government,France,Paseo,COGS,542623.93
+2014-12,Government,France,Paseo,Discounts,7509.16
+2014-12,Government,France,Paseo,Gross Sales,727039.92
+2014-12,Government,France,Paseo,Units Sold,2341.49
+2014-12,Government,France,VTT,COGS,15456.05
+2014-12,Government,France,VTT,Discounts,1820.59
+2014-12,Government,France,VTT,Gross Sales,24059.67
+2014-12,Government,France,VTT,Units Sold,2874.46
+2014-12,Government,Germany,Carretera,COGS,401191.47
+2014-12,Government,Germany,Carretera,Discounts,279.72
+2014-12,Government,Germany,Carretera,Gross Sales,557335.68
+2014-12,Government,Germany,Carretera,Units Sold,1880.12
+2014-12,Government,Germany,Paseo,COGS,404836.92
+2014-12,Government,Germany,Paseo,Discounts,3759.52
+2014-12,Government,Germany,Paseo,Gross Sales,564914.78
+2014-12,Government,Germany,Paseo,Units Sold,3069.78
+2014-12,Government,Germany,VTT,COGS,16272.48
+2014-12,Government,Germany,VTT,Discounts,3770.28
+2014-12,Government,Germany,VTT,Gross Sales,32351.17
+2014-12,Government,Germany,VTT,Units Sold,1798.28
+2014-12,Government,Mexico,Carretera,COGS,357815.49
+2014-12,Government,Mexico,Carretera,Discounts,39120.28
+2014-12,Government,Mexico,Carretera,Gross Sales,488100.42
+2014-12,Government,Mexico,Carretera,Units Sold,1913.39
+2014-12,Government,Mexico,Paseo,COGS,330966.01
+2014-12,Government,Mexico,Paseo,Discounts,36339.29
+2014-12,Government,Mexico,Paseo,Gross Sales,447136.39
+2014-12,Government,Mexico,Paseo,Units Sold,2314.34
+2014-12,Government,Mexico,VTT,COGS,15065.59
+2014-12,Government,Mexico,VTT,Discounts,3357.67
+2014-12,Government,Mexico,VTT,Gross Sales,28651.32
+2014-12,Government,Mexico,VTT,Units Sold,1775.34
+2014-12,Government,United States of America,Carretera,COGS,74044.53
+2014-12,Government,United States of America,Carretera,Discounts,4032.27
+2014-12,Government,United States of America,Carretera,Gross Sales,99438.11
+2014-12,Government,United States of America,Carretera,Units Sold,840.18
+2014-12,Government,United States of America,Paseo,COGS,95280.4
+2014-12,Government,United States of America,Paseo,Discounts,6436.2
+2014-12,Government,United States of America,Paseo,Gross Sales,148858.24
+2014-12,Government,United States of America,Paseo,Units Sold,2931.06
+2014-12,Government,United States of America,VTT,COGS,30045.04
+2014-12,Government,United States of America,VTT,Discounts,2808.84
+2014-12,Government,United States of America,VTT,Gross Sales,58891.04
+2014-12,Government,United States of America,VTT,Units Sold,3325.67
+2014-12,Midmarket,Canada,Carretera,COGS,23200.65
+2014-12,Midmarket,Canada,Carretera,Discounts,4602.17
+2014-12,Midmarket,Canada,Carretera,Gross Sales,34396.97
+2014-12,Midmarket,Canada,Carretera,Units Sold,2293.13
+2014-12,Midmarket,Canada,Montana,COGS,22236.05
+2014-12,Midmarket,Canada,Montana,Discounts,4533.83
+2014-12,Midmarket,Canada,Montana,Gross Sales,32961.86
+2014-12,Midmarket,Canada,Montana,Units Sold,2197.46
+2014-12,Midmarket,France,Amarilla,COGS,20304.57
+2014-12,Midmarket,France,Amarilla,Discounts,3089.7
+2014-12,Midmarket,France,Amarilla,Gross Sales,30904.7
+2014-12,Midmarket,France,Amarilla,Units Sold,2060.31
+2014-12,Midmarket,France,Montana,COGS,20843.24
+2014-12,Midmarket,France,Montana,Discounts,3059.54
+2014-12,Midmarket,France,Montana,Gross Sales,31164.1
+2014-12,Midmarket,France,Montana,Units Sold,2077.61
+2014-12,Midmarket,Germany,Amarilla,COGS,7456.88
+2014-12,Midmarket,Germany,Amarilla,Discounts,873.21
+2014-12,Midmarket,Germany,Amarilla,Gross Sales,10714.14
+2014-12,Midmarket,Germany,Amarilla,Units Sold,714.28
+2014-12,Midmarket,Germany,Montana,COGS,7153.68
+2014-12,Midmarket,Germany,Montana,Discounts,851.55
+2014-12,Midmarket,Germany,Montana,Gross Sales,10734.3
+2014-12,Midmarket,Germany,Montana,Units Sold,715.62
+2014-12,Midmarket,Mexico,Amarilla,COGS,22173.93
+2014-12,Midmarket,Mexico,Amarilla,Discounts,3602.73
+2014-12,Midmarket,Mexico,Amarilla,Gross Sales,33728.51
+2014-12,Midmarket,Mexico,Amarilla,Units Sold,2248.57
+2014-12,Midmarket,Mexico,Montana,COGS,20581.26
+2014-12,Midmarket,Mexico,Montana,Discounts,3379.32
+2014-12,Midmarket,Mexico,Montana,Gross Sales,30979.55
+2014-12,Midmarket,Mexico,Montana,Units Sold,2065.3
+2014-12,Midmarket,United States of America,Amarilla,COGS,6204.79
+2014-12,Midmarket,United States of America,Amarilla,Discounts,0.0
+2014-12,Midmarket,United States of America,Amarilla,Gross Sales,9290.06
+2014-12,Midmarket,United States of America,Amarilla,Units Sold,619.34
+2014-12,Midmarket,United States of America,Montana,COGS,6456.07
+2014-12,Midmarket,United States of America,Montana,Discounts,0.0
+2014-12,Midmarket,United States of America,Montana,Gross Sales,9713.48
+2014-12,Midmarket,United States of America,Montana,Units Sold,647.57
+2014-12,Small Business,Canada,Amarilla,COGS,446611.39
+2014-12,Small Business,Canada,Amarilla,Discounts,11329.79
+2014-12,Small Business,Canada,Amarilla,Gross Sales,536269.96
+2014-12,Small Business,Canada,Amarilla,Units Sold,1787.57
+2014-12,Small Business,Canada,Paseo,COGS,468526.48
+2014-12,Small Business,Canada,Paseo,Discounts,11346.55
+2014-12,Small Business,Canada,Paseo,Gross Sales,578945.31
+2014-12,Small Business,Canada,Paseo,Units Sold,1929.82
+2014-12,Small Business,France,Amarilla,COGS,204304.12
+2014-12,Small Business,France,Amarilla,Discounts,24942.66
+2014-12,Small Business,France,Amarilla,Gross Sales,249977.67
+2014-12,Small Business,France,Amarilla,Units Sold,833.26
+2014-12,Small Business,France,Velo,COGS,209483.63
+2014-12,Small Business,France,Velo,Discounts,25535.66
+2014-12,Small Business,France,Velo,Gross Sales,252133.4
+2014-12,Small Business,France,Velo,Units Sold,840.44
+2014-12,Small Business,Germany,Amarilla,COGS,300395.92
+2014-12,Small Business,Germany,Amarilla,Discounts,18070.82
+2014-12,Small Business,Germany,Amarilla,Gross Sales,361670.55
+2014-12,Small Business,Germany,Amarilla,Units Sold,1205.57
+2014-12,Small Business,Germany,Velo,COGS,306873.02
+2014-12,Small Business,Germany,Velo,Discounts,18343.57
+2014-12,Small Business,Germany,Velo,Gross Sales,372465.34
+2014-12,Small Business,Germany,Velo,Units Sold,1241.55
+2014-12,Small Business,Mexico,Amarilla,COGS,170278.33
+2014-12,Small Business,Mexico,Amarilla,Discounts,15642.34
+2014-12,Small Business,Mexico,Amarilla,Gross Sales,205059.96
+2014-12,Small Business,Mexico,Amarilla,Units Sold,683.53
+2014-12,Small Business,Mexico,Velo,COGS,151104.7
+2014-12,Small Business,Mexico,Velo,Discounts,14266.34
+2014-12,Small Business,Mexico,Velo,Gross Sales,181104.64
+2014-12,Small Business,Mexico,Velo,Units Sold,603.68
+2014-12,Small Business,United States of America,Amarilla,COGS,333145.04
+2014-12,Small Business,United States of America,Amarilla,Discounts,26609.45
+2014-12,Small Business,United States of America,Amarilla,Gross Sales,392787.05
+2014-12,Small Business,United States of America,Amarilla,Units Sold,1309.29
+2014-12,Small Business,United States of America,Velo,COGS,324948.55
+2014-12,Small Business,United States of America,Velo,Discounts,25933.27
+2014-12,Small Business,United States of America,Velo,Gross Sales,390713.53
+2014-12,Small Business,United States of America,Velo,Units Sold,1302.38

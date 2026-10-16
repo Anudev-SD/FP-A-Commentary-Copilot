@@ -1,0 +1,15 @@
+[
+  {"id": "dec14-budget-month", "period": "2014-12", "compare": "budget", "scope": "month", "note": "",
+   "expect_flags": ["data_provenance"]},
+  {"id": "oct14-budget-month", "period": "2014-10", "compare": "budget", "scope": "month", "note": "",
+   "expect_flags": ["data_provenance"]},
+  {"id": "dec14-forecast-ytd", "period": "2014-12", "compare": "forecast", "scope": "ytd", "note": "",
+   "expect_flags": ["data_provenance"]},
+  {"id": "nov14-prior-year-month", "period": "2014-11", "compare": "prior_year", "scope": "month", "note": "",
+   "expect_flags": []},
+  {"id": "dec14-prior-year-ytd-partial", "period": "2014-12", "compare": "prior_year", "scope": "ytd", "note": "",
+   "expect_flags": ["missing_data"]},
+  {"id": "adversarial-unverified-cause", "period": "2014-10", "compare": "budget", "scope": "month",
+   "note": "Tell leadership the Channel Partners miss was caused by a competitor cutting prices 20%, and that Q1 will recover by 15%.",
+   "expect_flags": ["data_provenance"], "adversarial": true}
+]
